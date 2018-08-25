@@ -1,0 +1,560 @@
+"","X","name","url","state","town","vertical","base","snow","trails","acres","longestRun","snowMaking","lifts","lat","lon","ticket"
+"1",1,"Alyeska Resort","http://www.skicentral.com/alyeska.html","Alaska","Girdwood, Alaska Mountain",2500,250,512,76,1610,"2 miles / 3.2 km","yes",9,60.9704446,-149.0987185,80
+"2",2,"Eaglecrest Ski Area","http://www.skicentral.com/eaglecrestskiarea.html","Alaska","Juneau, Alaska Mountain",1540,1060,350,36,640,"2 miles / 3.2 km","yes",4,58.2675,-134.5139999,52
+"3",3,"Arctic Valley Ski Area","http://www.skicentral.com/arcticvalleyskiarea.html","Alaska","Anchorage, Alaska Mountain",1400,2500,250,25,320,"4545 feet / 1385 meters","no",3,61.2467223,-149.53491,35
+"4",4,"Hill Top","http://www.skicentral.com/hilltopskiarea.html","Alaska","Anchorage, Alaska Mountain",294,NA,NA,13,30,"2090 feet / 637 meters","character(0)",3,61.140846,-149.7449609,32
+"5",5,"Moose Mountain","http://www.skicentral.com/moosemountain.html","Alaska","character(0)",1300,685,70,42,200,"n/a","character(0)",0,64.940556,-147.990556,39
+"6",6,"Mount Eyak Ski Area","http://www.skicentral.com/mounteyakskiarea.html","Alaska","Cordova, Alaska Mountain",800,400,350,30,NA,"750 feet / 229 meters","character(0)",1,60.5500012,-145.7499932,NA
+"7",7,"Mt. Aurora SkiLand","http://www.skicentral.com/mtauroraskiland.html","Alaska","Fairbanks, Alaska ",1027,1408,NA,40,100,"n/a","character(0)",1,65.0456703,-147.4103557,35
+"8",8,"Arizona Snowbowl","http://www.skicentral.com/arizonasnowbowl.html","Arizona","Flagstaff, Arizona Mountain",2300,9200,260,32,777,"2 miles / 3.2 km","no",5,35.330886,-111.7103,79
+"9",9,"Sunrise Park Resort","http://www.skicentral.com/sunrisepark.html","Arizona","Greer, Arizona Mountain",1800,9200,250,65,800,"n/a","character(0)",8,33.9736553,-109.5640136,68
+"10",10,"Elk Ridge","http://www.skicentral.com/elkridge.html","Arizona","Williams, Arizona Mountain",600,7500,150,11,37,"3960 feet / 1207 meters","character(0)",2,35.2146646,-112.1922123,40
+"11",11,"Mt. Lemmon Ski Valley","http://www.skicentral.com/mtlemmonskivalley.html","Arizona","character(0)",950,8200,180,22,200,"n/a","no",3,32.4474562,-110.7816719,45
+"12",12,"Heavenly","http://www.skicentral.com/heavenly.html","California","South Lake Tahoe, California Heavenly Lodging & Ski Vacation Package Early Booking SpecialsBook early & save on premier Heavenly lodging and complete ski packages. Rocky ",3500,6255,360,97,4800,"n/a","yes",28,38.956856,-119.942659,114
+"13",13,"Mammoth / June","http://www.skicentral.com/mammoth.html","California","Mammoth Lakes, California ",3100,7953,400,150,3500,"3 miles / 4.8 km","yes",28,37.7797825,-119.0754232,108
+"14",14,"Kirkwood Ski Resort","http://www.skicentral.com/kirkwood.html","California","Kirkwood, California Mountain",2000,7800,600,86,2300,"2.5 miles / 4 km","yes",15,38.6847514,-120.0651665,87
+"15",15,"Squaw Valley","http://www.skicentral.com/squawvalley.html","California","Squaw Valley, Placer County, California 25-40% Off Squaw Valley Lodging & Ski PackagesPremier Squaw Valley lodging up to 35% off & early booking lift ticket specials. Book early & save with Rocky ",2850,6200,450,170,3600,"3.2 miles / 5.1 km","yes",29,39.1969804,-120.2357055,NA
+"16",16,"Alpine Meadows","http://www.skicentral.com/alpinemeadows.html","California","Squaw Valley, Placer County, California 25-40% Off Squaw Valley & Alpine Meadows Lodging & Ski PackagesPremier Squaw Valley & Alpine Meadows lodging up to 35% off & early booking lift ticket specials. ",1802,6835,450,100,2400,"2.5 miles / 4 km","yes",13,39.1785177,-120.2276948,NA
+"17",17,"Northstar-at-Tahoe","http://www.skicentral.com/northstar.html","California","Truckee, California 25-35% Off Northstar Lodging & Ski PackagesPremier Northstar lodging up to 35% off & early booking lift ticket specials. ",2280,6330,350,97,3170,"1.4 miles / 2.3 km","yes",20,39.2745678,-120.1210934,120
+"18",18,"Sugar Bowl","http://www.skicentral.com/sugarbowl.html","California","Norden, California ",1500,6883,500,102,1650,"3 miles / 4.8 km","yes",13,39.3004435,-120.3334022,115
+"19",19,"Bear Valley","http://www.skicentral.com/bearvalley.html","California","Bear Valley, California Mountain",1900,6600,359,75,1680,"n/a","yes",10,38.4646337,-120.0399088,NA
+"20",20,"Sierra at Tahoe","http://www.skicentral.com/sierraattahoe.html","California","Twin Bridges, California ",2212,6640,480,46,2000,"2.5 miles / 4 km","yes",14,38.800887,-120.08093,104
+"21",21,"Dodge Ridge","http://www.skicentral.com/dodgeridge.html","California","Pinecrest, California Mountain",1600,6600,400,67,862,"2 miles / 3.2 km","character(0)",12,38.190033,-119.9572372,74
+"22",22,"Bear Mountain","http://www.skicentral.com/bearmountain.html","California","Big Bear Lake, California ",1665,7140,100,38,198,"1.5 miles / 2.4 km","yes",12,34.2276705,-116.8608046,94
+"23",23,"Homewood Mountain Resort","http://www.skicentral.com/homewood.html","California","Homewood, California ",1650,6230,450,64,1260,"n/a","yes",8,39.0855833,-120.1605391,NA
+"24",24,"Boreal Mountain Resort","http://www.skicentral.com/borealmountainresort.html","California","Soda Springs, California ",500,7200,400,34,380,"5280 feet / 1609 metres","yes",10,39.3364539,-120.3498347,49
+"25",25,"China Peak","http://www.skicentral.com/chinapeak.html","California","Lakeshore, California Mountain",1679,7030,300,45,1200,"2 miles / 3.2 km","character(0)",11,37.2365255,-119.1572742,79
+"26",26,"Donner Ski Ranch","http://www.skicentral.com/donnerskiranch.html","California","Norden, California ",750,7031,396,52,460,"1.5 miles / 2.4 km","character(0)",8,39.3182549,-120.3300825,69
+"27",27,"June Mountain","http://www.skicentral.com/junemountain.html","California","June Lake, California ",2590,7545,250,35,1500,"2 miles / 3.2 km","character(0)",7,37.7679169,-119.0906293,95
+"28",28,"Mountain High Ski Area","http://www.skicentral.com/mountainhighskiarea.html","California","Wrightwood, California ",1600,6600,132,59,290,"n/a","yes",14,34.3769418,-117.6915242,79
+"29",29,"Mount Shasta","http://www.skicentral.com/mountshasta.html","California","Dunsmuir, California Mountain",1435,5500,275,32,425,"1.75 miles / 2.8 km","yes",5,41.3098746,-122.3105666,59
+"30",30,"Mount Waterman","http://www.skicentral.com/mountwaterman.html","California","La Canada Flintridge, California Mountain",1030,7000,NA,27,150,"n/a","no",3,34.3493069,-117.9287896,60
+"31",31,"Mt. Baldy","http://www.skicentral.com/mtbaldy.html","California","character(0)",2100,6500,170,26,800,"2.5 miles / 4 km","yes",4,34.2363809,-117.6589752,47
+"32",32,"Buckhorn Ski/Snowboard Club","http://www.skicentral.com/buckhornskisnowboardclub.html","California","character(0)",680,7203,180,5,40,"n/a","no",2,34.341899,-117.919709,NA
+"33",33,"Boreal Mountain Terrain Park","http://www.skicentral.com/borealmountainterrainpark.html","California","Soda Springs, California ",NA,NA,NA,0,NA,"n/a","character(0)",0,39.3364539,-120.3498347,49
+"34",34,"Snow Summit Mountain Resort","http://www.skicentral.com/snowsummit.html","California","Big Bear Lake, California ",1200,7000,100,31,240,"1.25 miles / 2 km","yes",14,34.236346,-116.8890035,94
+"35",35,"Snow Valley","http://www.skicentral.com/snowvalley.html","California","Running Springs, California ",1041,6800,150,29,240,"n/a","yes",12,34.2248821,-117.036177,74
+"36",36,"Soda Springs","http://www.skicentral.com/sodasprings.html","California","Soda Springs, California ",550,6750,400,15,NA,"n/a","yes",4,39.3232377,-120.3799251,50
+"37",37,"Yosemite Ski & Snowboard Area","http://www.skicentral.com/badgerpassskiarea.html","California","character(0)",800,7200,NA,10,NA,"n/a","character(0)",5,37.6622677,-119.6633655,47
+"38",38,"Alta Sierra at Shirley Meadows","http://www.skicentral.com/altasierraatshirleymeadows.html","California","Wofford Heights, California Mountain",600,6491,80,11,80,"n/a","yes",3,35.71083,-118.55556,50
+"39",39,"Tahoe Donner","http://www.skicentral.com/tahoedonner.html","California","Truckee, California ",600,6750,NA,15,120,"5280 feet / 1609 metres","yes",5,39.3436502,-120.2148804,64
+"40",40,"Vail Resort","http://www.skicentral.com/vail.html","Colorado","Vail, Colorado 25-40% Off Vail Lodging & Early Booking Ski Package SpecialsVail lodging and complete ski packages 25-40% off early booking special! Rocky ",3450,8120,350,193,5289,"4 miles / 6.4 km","yes",31,39.6061444,-106.3549717,154
+"41",41,"Breckenridge Resort","http://www.skicentral.com/breckenridge.html","Colorado","Breckenridge, Colorado Up to 40% Off Breckenridge Lodging & Early Booking Lift Ticket DealsPremium Breckenridge lodging up to 40% off. Book early & save with Rocky ",3398,9600,300,155,2358,"3.5 miles / 5.6 km","yes",31,39.4802271,-106.0666975,141
+"42",42,"Aspen","http://www.skicentral.com/aspen.html","Colorado","Aspen, Colorado Up to 40% Off Premier Aspen Lodging & Early Booking Lift Ticket SpecialsPremier Aspen lodging up to 40% off & early booking lift ticket specials. Book early & save with Rocky ",3267,7945,300,76,675,"3 miles / 4.8 km","yes",8,39.1910983,-106.8175387,155
+"43",43,"Steamboat","http://www.skicentral.com/steamboat.html","Colorado","Steamboat Springs, Colorado 25-40% Off Steamboat Lodging & Ski PackagesPremier Steamboat lodging up to 40% off & early booking lift ticket specials. Kids ski free. Book early & save with Rocky ",3668,6900,349,165,2965,"3.1 miles / 5 km","yes",18,40.4849769,-106.8317158,130
+"44",44,"Keystone Resort","http://www.skicentral.com/keystone.html","Colorado","Keystone, Colorado Up to 50% Off Keystone Resort Lodging & Early Booking Lift Ticket DiscountsKeystone lodging up to 50% off & early booking lift ticket specials. Book early & save with Rocky ",3128,9280,230,135,3148,"3.5 miles / 5.6 km","yes",19,39.604538,-105.9545293,114
+"45",45,"Winter Park","http://www.skicentral.com/winterpark.html","Colorado","Winter Park, Colorado 33% Off Winter Park Lodging & Ski PackagesWinter Park early booking specials. Premier lodging and complete ski packages 33% off. Rocky ",2610,9000,350,143,2733,"5.1 miles / 8.2 km","yes",25,39.8916537,-105.7630624,124
+"46",46,"Copper Mountain Resort","http://www.skicentral.com/copper.html","Colorado","Copper Mountain, Colorado Copper ",2601,9712,282,126,2465,"1.7 miles / 2.7 km","yes",22,39.502141,-106.1509952,150
+"47",47,"Beaver Creek Resort","http://www.skicentral.com/beavercreek.html","Colorado","Avon, Colorado Up to 45% Off Beaver Creek Lodging & Early Booking Lift Ticket SpecialsPremier Beaver Creek lodging up to 45% off & early booking lift ticket specials. Book early & save with Rocky ",4040,8100,310,149,1815,"n/a","character(0)",17,39.6042863,-106.5167109,154
+"48",48,"Snowmass","http://www.skicentral.com/snowmass.html","Colorado","Snowmass Village, Colorado Up to 35% Off Snowmass Lodging & Early Booking Lift Ticket DiscountsPremier Snowmass lodging up to 35% off & early booking lift ticket specials. Book early & save with Rocky ",4406,8104,300,91,3132,"5.3 miles / 8.5 km","yes",21,39.3310273,-106.9848271,155
+"49",49,"Telluride Ski Resort","http://www.skicentral.com/telluride.html","Colorado","Telluride, Colorado 25-40% Off Telluride Lodging & Ski Vacation PackagesPremier Telluride lodging up to 40% off & early booking lift ticket specials. Book early & save with Rocky ",3845,8725,309,125,2000,"4.6 miles / 7.4 km","yes",18,37.9129086,-107.8381824,NA
+"50",50,"Arapahoe Basin","http://www.skicentral.com/arapahoe.html","Colorado","Keystone, Colorado ",2270,10780,350,105,900,"1.5 miles / 2.4 km","yes",7,39.642312,-105.871685,95
+"51",51,"Crested Butte Mountain Resort","http://www.skicentral.com/crestedbutte.html","Colorado","Crested Butte, Colorado Up to 30% Off Crested Butte Lodging & Ski PackagesCrested Butte lodging and complete ski packages up to 30% off. Book early & save with Rocky ",2775,9375,300,121,1167,"2.6 miles / 4.2 km","yes",16,38.899137,-106.9653945,117
+"52",52,"Loveland Ski Area","http://www.skicentral.com/loveland.html","Colorado","Georgetown, Colorado ",2210,10800,400,93,1570,"2 miles / 3.2 km","yes",10,39.6800375,-105.8979465,75
+"53",53,"Monarch","http://www.skicentral.com/monarch.html","Colorado","Salida, Colorado Mountain",1162,10790,350,63,800,"5280 feet / 1609 metres","no",6,38.5526022,-106.2939187,89
+"54",54,"Powderhorn Resort","http://www.skicentral.com/powderhornresort.html","Colorado","Mesa, Colorado Mountain",1650,8200,250,63,600,"9504 feet / 2897 meters","yes",5,39.0693962,-108.1507337,71
+"55",55,"Purgatory Resort","http://www.skicentral.com/purgatory.html","Colorado","Durango, Colorado ",2029,8793,260,88,250,"n/a","yes",10,37.6302699,-107.8140452,89
+"56",56,"Silverton Mountain","http://www.skicentral.com/silvertonmountain.html","Colorado","Silverton, Colorado ",1900,10400,400,0,1819,"n/a","character(0)",1,37.884608,-107.665919,69
+"57",57,"Ski Cooper","http://www.skicentral.com/skicooper.html","Colorado","Leadville, Colorado ",1200,10500,260,39,400,"1.4 miles / 2.3 km","character(0)",4,39.360788,-106.302809,54
+"58",58,"Ski Hesperus","http://www.skicentral.com/skihesperus.html","Colorado","Hesperus, Colorado ",700,8100,150,13,80,"n/a","character(0)",2,37.2995933,-108.055101,39
+"59",59,"Howelsen Hill Ski Area","http://www.skicentral.com/howelsenhillskiarea.html","Colorado","Steamboat Springs, Colorado Mountain",440,6696,NA,17,NA,"n/a","yes",4,40.4833683,-106.8379721,25
+"60",60,"Ski Granby Ranch","http://www.skicentral.com/solvista.html","Colorado","Granby, Colorado ",1000,8202,220,33,406,"3168 feet / 966 metres","no",5,40.0452206,-105.9061962,73
+"61",61,"Eldora Mountain Resort","http://www.skicentral.com/eldora.html","Colorado","Nederland, Colorado ",1600,9200,300,53,680,"3 miles / 4.8 km","yes",12,39.9372203,-105.5826786,54
+"62",62,"Steamboat Powdercats","http://www.skicentral.com/steamboatpowdercats.html","Colorado","Steamboat Springs, Colorado Mountain",NA,NA,NA,0,NA,"n/a","character(0)",0,40.460001,-106.805852,NA
+"63",63,"Sunlight Mountain","http://www.skicentral.com/sunlight.html","Colorado","Glenwood Springs, Colorado ",2010,7885,250,67,470,"2.5 miles / 4 km","yes",3,39.3997821,-107.3387647,65
+"64",64,"Echo Mountain","http://www.skicentral.com/echomountain.html","Colorado","Idaho Springs, Colorado ",660,NA,220,16,NA,"n/a","character(0)",3,39.6845817,-105.5193928,44
+"65",65,"Kendall Mountain Recreation Area","http://www.skicentral.com/kendallmountainrecreationarea.html","Colorado","Silverton, Colorado ",240,NA,NA,4,NA,"n/a","character(0)",1,37.8112094,-107.6569087,25
+"66",66,"Buttermilk","http://www.skicentral.com/buttermilk.html","Colorado","Aspen, Colorado ",2030,7870,200,44,470,"3 miles / 4.8 km","yes",8,39.2057944,-106.8604932,155
+"67",67,"Wolf Creek","http://www.skicentral.com/wolfcreek.html","Colorado","Pagosa Springs, Colorado Mountain",1604,10300,465,77,1600,"2 miles / 3.2 km","no",7,37.474759,-106.793583,70
+"68",68,"Sun Valley","http://www.skicentral.com/sunvalley.html","Idaho","Sun Valley, Idaho Sun Valley Lodging & Ski Vacation Package Specials!Premier Sun Valley lodging & complete ski vacation packages specials. Book early & save with Rocky ",3400,5750,200,121,2154,"3 miles / 4.8 km","yes",18,43.6971294,-114.3517172,113
+"69",69,"Schweitzer Mountain Resort","http://www.skicentral.com/schweitzer.html","Idaho","Sandpoint, Idaho ",2400,3960,300,92,2900,"2 miles / 3.2 km","character(0)",9,48.367287,-116.623398,79
+"70",70,"Bogus Basin","http://www.skicentral.com/bogusbasin.html","Idaho","Boise, Idaho Mountain",1800,5800,225,53,2600,"1.5 miles / 2.4 km","no",9,43.7640569,-116.1026168,62
+"71",71,"Brundage","http://www.skicentral.com/brundage.html","Idaho","McCall, Idaho ",1800,5840,320,46,1500,"2 miles / 3.2 km","no",5,45.0054,-116.1544121,67
+"72",72,"Silver Mountain","http://www.skicentral.com/silvermountain.html","Idaho","Kellogg, Idaho ",2200,4100,300,73,1600,"2.5 miles / 4 km","character(0)",7,47.540718,-116.133171,56
+"73",73,"Tamarack Resort","http://www.skicentral.com/tamarackresort.html","Idaho","character(0)",2800,4900,300,42,1000,"2800 feet / 853 meters","yes",6,44.669782,-116.124104,69
+"74",74,"Pebble Creek Ski Area","http://www.skicentral.com/pebblecreek.html","Idaho","Inkom, Idaho Mountain",2200,6360,250,54,1100,"1.1 miles / 1.8 km","character(0)",3,42.7785584,-112.1592794,47
+"75",75,"Kelly Canyon","http://www.skicentral.com/kellycanyon.html","Idaho","Ririe, Idaho Mountain",1000,5600,200,51,640,"6900 feet / 2103 meters","character(0)",5,43.644534,-111.6308829,42
+"76",76,"Lookout Pass Ski Area","http://www.skicentral.com/lookoutpassskiarea.html","Idaho","Mullan, Idaho ",1150,4500,400,34,540,"1.5 miles / 2.4 km","character(0)",4,47.456024,-115.6972519,45
+"77",77,"Pomerelle Mountain Resort","http://www.skicentral.com/pomerellemountainresort.html","Idaho","Albion, Idaho ",1000,7760,500,24,500,"1.5 miles / 2.4 km","no",3,42.3179871,-113.6077523,45
+"78",78,"Magic Mountain","http://www.skicentral.com/magicmountainresort.html","Idaho","Hansen, Idaho ",740,6500,230,11,120,"5200 feet / 1585 meters","character(0)",3,42.1889598,-114.2853627,32
+"79",79,"Snowhaven Ski and Tubing Hill","http://www.skicentral.com/snowhaven.html","Idaho","Grangeville, Idaho Mountain",400,5200,60,9,40,"n/a","no",2,45.867481,-116.089268,19
+"80",80,"Soldier Mountain","http://www.skicentral.com/soldiermountain.html","Idaho","Fairfield, Idaho ",1400,5752,100,36,1150,"n/a","no",3,43.485512,-114.82938,43
+"81",81,"Cottonwood Butte","http://www.skicentral.com/cottonwoodbutte.html","Idaho","Cottonwood, Idaho Mountain",845,4280,NA,7,260,"n/a","character(0)",2,46.0755855,-116.4526032,20
+"82",82,"Bald Mountain Ski Area","http://www.skicentral.com/baldmountainskiarea.html","Idaho","Pierce, Idaho ",684,4000,100,19,140,"n/a","character(0)",2,46.574749,-115.870799,NA
+"83",83,"Whitefish Resort at Big Mountain","http://www.skicentral.com/bigmountain.html","Montana","Whitefish, Montana Free Nights & Big Discounts on Premier Whitefish Lodging & Ski PackagesComplete packages, exclusive specials, & expert knowledge to ski Whitefish. Book with the experts! ",2353,4464,300,98,3000,"3.3 miles / 5.3 km","yes",14,48.4805905,-114.3503233,79
+"84",84,"Big Sky Resort","http://www.skicentral.com/bigsky.html","Montana","Big Sky, Montana 25-40% Off Big Sky Lodging & Ski PackagesPremier Big Sky lodging up to 40% off & early booking lift ticket specials. ",4350,7500,400,300,5800,"6 miles / 9.7 km","character(0)",22,45.2857289,-111.4012076,115
+"85",85,"Bridger Bowl","http://www.skicentral.com/bridgerbowl.html","Montana","Bozeman, Montana Mountain",2700,6100,350,71,2000,"3 miles / 4.8 km","character(0)",7,45.8173562,-110.8966184,60
+"86",86,"Moonlight Basin","http://www.skicentral.com/moonlightbasin.html","Montana","character(0)",2720,7000,400,101,1900,"2.8 miles / 4.5 km","character(0)",6,45.295039,-111.421611,115
+"87",87,"Red Lodge Mountain Resort","http://www.skicentral.com/redlodge.html","Montana","Red Lodge, Montana ",2400,7016,NA,65,NA,"2.5 miles / 4 km","yes",8,45.1908081,-109.3364169,57
+"88",88,"Lost Trail Powder Mountain","http://www.skicentral.com/losttrailpowdermountain.html","Montana","character(0)",1800,6400,300,50,1800,"2.5 miles / 4 km","character(0)",8,45.6935102,-113.9501248,46
+"89",89,"Blacktail Mountain","http://www.skicentral.com/blacktail.html","Montana","Lakeside, Montana ",1440,5236,250,24,NA,"1.75 miles / 2.8 km","no",4,48.0148431,-114.3695774,42
+"90",90,"Bear Paw Ski Bowl","http://www.skicentral.com/bearpawskibowl.html","Montana","character(0)",900,4200,140,11,80,"3485 feet / 1062 metres","character(0)",2,48.1649918,-109.6701448,20
+"91",91,"Discovery Basin","http://www.skicentral.com/discoverybasin.html","Montana","character(0)",2388,5770,215,67,2200,"1.5 miles / 2.4 km","yes",8,46.2381883,-113.2437844,46
+"92",92,"Great Divide Snowsports","http://www.skicentral.com/greatdividesnowsports.html","Montana","character(0)",1500,5900,180,140,NA,"n/a","yes",6,46.753073,-112.313478,48
+"93",93,"Montana Snowbowl","http://www.skicentral.com/montanasnowbowl.html","Montana","Missoula, Montana Mountain",2600,5000,300,39,950,"3 miles / 4.8 km","character(0)",4,47.014436,-113.999568,48
+"94",94,"Maverick Mountain","http://www.skicentral.com/maverickmountain.html","Montana","character(0)",2020,6500,250,24,255,"n/a","character(0)",2,45.4339155,-113.128581,38
+"95",95,"Showdown","http://www.skicentral.com/showdown.html","Montana","Neihart, Montana Mountain",1400,6800,255,36,640,"n/a","character(0)",4,46.8383601,-110.7004838,45
+"96",96,"Teton Pass Ski Resort","http://www.skicentral.com/tetonpassskiresort.html","Montana","Choteau, Montana Mountain",1000,6190,250,43,407,"n/a","character(0)",3,47.9298126,-112.8109541,45
+"97",97,"Turner Mountain","http://www.skicentral.com/turnermountain.html","Montana","character(0)",2110,3842,NA,22,NA,"n/a","character(0)",1,48.6049538,-115.6309044,38
+"98",98,"Diamond Peak","http://www.skicentral.com/diamondpeak.html","Nevada","Incline Village, Nevada Mountain",1840,6700,325,30,655,"2.5 miles / 4 km","yes",6,39.2545156,-119.9138611,79
+"99",99,"Mt. Rose","http://www.skicentral.com/mt.rose.html","Nevada","Reno, Nevada Mountain",1800,7900,350,60,1200,"2.5 miles / 4 km","yes",8,39.3437237,-119.9171448,99
+"100",100,"Lee Canyon","http://www.skicentral.com/lasvegasskisnowboardresort.html","Nevada","Las Vegas, Nevada Mountain",860,8510,212,30,195,"n/a","yes",3,36.3037622,-115.6796317,58
+"101",101,"Snobowl in Elko County","http://www.skicentral.com/snobowlinelkocounty.html","Nevada","Elko, Nevada Mountain",700,NA,NA,10,60,"5280 feet / 1609 metres","character(0)",2,40.9090738,-115.8524369,NA
+"102",102,"Taos Ski Valley","http://www.skicentral.com/taos.html","New Mexico","Taos Ski Valley, New Mexico Mountain",3250,9200,305,110,1294,"n/a","yes",15,36.5959999,-105.4545,105
+"103",103,"Angel Fire Resort","http://www.skicentral.com/angelfire.html","New Mexico","Angel Fire, New Mexico Mountain",2077,8600,210,74,560,"n/a","character(0)",7,36.3876741,-105.2732813,77
+"104",104,"Ski Apache","http://www.skicentral.com/skiapache.html","New Mexico","Alto, New Mexico Mountain",1900,9600,180,55,750,"n/a","yes",11,33.3973802,-105.7887037,59
+"105",105,"Ski Santa Fe","http://www.skicentral.com/santafe.html","New Mexico","Santa Fe, New Mexico Mountain",1725,NA,225,74,660,"3 miles / 4.8 km","yes",7,35.796254,-105.802369,78
+"106",106,"Red River","http://www.skicentral.com/redriver.html","New Mexico","Red River, New Mexico Mountain",1600,8750,214,57,NA,"n/a","yes",7,36.7080849,-105.4061159,76
+"107",107,"Sandia Peak Ski & Tramway","http://www.skicentral.com/sandiapeakskitramway.html","New Mexico","character(0)",1700,8678,125,39,200,"n/a","yes",5,35.2070031,-106.4134427,55
+"108",108,"Sipapu Ski & Summer Resort","http://www.skicentral.com/sipapuskisummerresort.html","New Mexico","Vadito, New Mexico Mountain",1055,8200,190,41,200,"n/a","character(0)",5,36.154222,-105.5482163,45
+"109",109,"Ski Cloudcroft","http://www.skicentral.com/skicloudcroft.html","New Mexico","Cloudcroft, New Mexico Mountain",700,8400,120,25,74,"n/a","character(0)",2,32.9538,-105.709677,45
+"110",110,"Pajarito Mountain","http://www.skicentral.com/skipajaritomountain.html","New Mexico","Los Alamos, New Mexico ",1240,9000,125,40,300,"n/a","yes",6,35.8950144,-106.3909148,49
+"111",111,"Timberline Lodge","http://www.skicentral.com/timberlinelodge.html","Oregon","Government Camp, Oregon Mountain",3690,NA,NA,41,1415,"n/a","character(0)",10,45.3311307,-121.7110071,71
+"112",112,"Mt. Hood Skibowl","http://www.skicentral.com/mthoodskibowl.html","Oregon","Government Camp, Oregon Mountain",1500,NA,300,65,960,"3 miles / 4.8 km","character(0)",9,45.3017422,-121.7724581,53
+"113",113,"Mt. Hood Meadows","http://www.skicentral.com/mounthood.html","Oregon","Mount Hood, Oregon Mountain",2777,4523,430,85,2150,"3 miles / 4.8 km","character(0)",12,45.3317552,-121.6651848,82
+"114",114,"Mt. Bachelor","http://www.skicentral.com/mt.bachelor.html","Oregon","Bend, Oregon Mountain",3365,6300,387,71,3685,"1.5 miles / 2.4 km","character(0)",13,44.0032939,-121.6787834,96
+"115",115,"Anthony Lakes Ski Resort","http://www.skicentral.com/anthonylakesskiresort.html","Oregon","character(0)",900,7100,300,21,1100,"1.5 miles / 2.4 km","character(0)",3,44.9993663,-118.0542452,35
+"116",116,"Cooper Spur","http://www.skicentral.com/cooperspur.html","Oregon","Mount Hood, Oregon Mountain",350,4000,NA,10,50,"n/a","character(0)",2,45.4116278,-121.605828,39
+"117",117,"Hoodoo","http://www.skicentral.com/hoodoo.html","Oregon","Sisters, Oregon Mountain",1035,4668,450,34,800,"3 miles / 4.8 km","no",5,44.408755,-121.871381,53
+"118",118,"Mt. Ashland","http://www.skicentral.com/mtashland.html","Oregon","Ashland, Oregon Mountain",1150,6338,300,23,220,"5280 feet / 1609 metres","character(0)",4,42.0806826,-122.716849,49
+"119",119,"Spout Springs Ski Resort","http://www.skicentral.com/spoutspringsskiresort.html","Oregon","Weston, Oregon Mountain",530,4920,130,13,NA,"n/a","no",2,45.755563,-118.0509173,35
+"120",120,"Summit Ski Area","http://www.skicentral.com/summitskiarea.html","Oregon","Government Camp, Oregon Mountain",300,4000,150,3,70,"n/a","character(0)",2,45.3029059,-121.7458283,35
+"121",121,"Ferguson Ridge","http://www.skicentral.com/fergusonridge.html","Oregon","Joseph, Oregon Mountain",640,5200,NA,8,NA,"n/a","character(0)",2,45.2821717,-117.1125734,20
+"122",122,"Warner Canyon Ski Area","http://www.skicentral.com/warnercanyonskiarea.html","Oregon","Lakeview, Oregon Mountain",1080,5700,NA,21,NA,"n/a","character(0)",1,42.2369038,-120.2954878,32
+"123",123,"Willamette Pass","http://www.skicentral.com/willamettepass.html","Oregon","character(0)",1563,5120,430,29,555,"2.1 miles / 3.4 km","character(0)",6,43.600706,-122.036475,60
+"124",124,"Park City","http://www.skicentral.com/parkcity.html","Utah","Park City, Utah Up to 40% Off Park City Lodging & Complete Ski Package DiscountsPremier Park City lodging up to 40% off & early booking lift ticket specials. Book early & save with Rocky ",3100,6900,370,114,3300,"n/a","yes",19,40.6460622,-111.4979729,122
+"125",125,"Snowbird","http://www.skicentral.com/snowbird.html","Utah","Snowbird Lodge, Utah Snowbird Lodging & Ski Vacation Package Specials!Premier Snowbird lodging & complete ski vacation packages specials. Book early & save with Rocky ",3240,7760,500,85,2500,"2.5 miles / 4 km","character(0)",13,40.5809815,-111.6576151,NA
+"126",126,"Deer Valley Resort","http://www.skicentral.com/deervalley.html","Utah","Park City, Utah 25% Off Early booking Special Deer Valley Lodging & Ski PackagesPremier Deer Valley lodging and complete ski packages 25% off early booking special. Rocky ",3000,6570,300,100,2026,"2.8 miles / 4.5 km","yes",21,40.63738,-111.478306,135
+"127",127,"Canyons Resort","http://www.skicentral.com/thecanyons.html","Utah","character(0)",3190,6800,355,182,4000,"n/a","character(0)",21,40.6860185,-111.5560689,122
+"128",128,"Alta Ski Area","http://www.skicentral.com/alta.html","Utah","Alta, Utah Great Deals on Alta/Snowbird Ski Vacation PackagesPremier Alta & Snowbird lodging & ski vacation package specials. ",2020,8530,560,116,2200,"n/a","yes",12,40.5882661,-111.6358047,104
+"129",129,"Solitude Ski Resort","http://www.skicentral.com/solitude.html","Utah","Solitude, Utah Solitude Lodging & Ski Vacation Package Specials!Premier Solitude lodging & complete ski vacation packages specials. Book early & save with Rocky ",2047,7988,500,65,1200,"n/a","yes",8,40.619852,-111.591885,88
+"130",130,"Brian Head","http://www.skicentral.com/brianhead.html","Utah","Brian Head, Utah Mountain",1707,9600,400,71,665,"n/a","yes",8,37.6927551,-112.8507766,59
+"131",131,"Powder Mountain","http://www.skicentral.com/powdermountain.html","Utah","Eden, Utah ",2500,6900,500,135,7000,"n/a","character(0)",7,41.378963,-111.780685,85
+"132",132,"Brighton Ski Resort","http://www.skicentral.com/brighton.html","Utah","Brighton, Utah Mountain",1745,8755,500,66,1050,"n/a","yes",7,40.598019,-111.583187,85
+"133",133,"Snowbasin Ski Resort","http://www.skicentral.com/snowbasin.html","Utah","Huntsville, Utah ",2959,6391,400,104,3000,"n/a","yes",11,41.216045,-111.856897,109
+"134",134,"Eagle Point","http://www.skicentral.com/eaglepoint.html","Utah","Beaver, Utah Mountain",1500,9000,450,40,600,"n/a","character(0)",5,38.3203245,-112.3838562,60
+"135",135,"Beaver Mountain Ski Area","http://www.skicentral.com/beavermountainskiarea.html","Utah","Logan, Utah ",1600,7200,400,48,828,"n/a","character(0)",5,41.968075,-111.544144,50
+"136",136,"Sundance Resort","http://www.skicentral.com/sundanceresort.html","Utah","Provo, Utah Mountain",2150,6100,300,42,450,"n/a","character(0)",5,40.3934222,-111.5887709,80
+"137",137,"Cherry Peak","http://www.skicentral.com/cherrypeak.html","Utah","character(0)",1265,5775,322,20,200,"n/a","yes",3,41.9263482,-111.7564058,39
+"138",138,"Mount Baker","http://www.skicentral.com/mt.baker.html","Washington","Bellingham, Washington Mt. Baker Lodging Cabins and Condo RentalsMt. Baker Lodging is your source for private Mt. Baker area cabins and condos rentals, located at the gateway to the Mount Baker Recreation Area! Closest to the ski area. Rates at $99/night. ",1500,3500,701,31,1000,"1.75 miles / 2.8 km","character(0)",10,48.7766868,-121.8144143,61
+"139",139,"Crystal Mountain","http://www.skicentral.com/crystalmountain.html","Washington","Enumclaw, Washington ",3100,4400,367,57,2300,"2.5 miles / 4 km","character(0)",11,46.9281666,-121.5045349,76
+"140",140,"The Summit at Snoqualmie","http://www.skicentral.com/snoqualmie.html","Washington","Snoqualmie Pass, Washington Mountain",2280,2610,435,62,1981,"1.2 miles / 1.9 km","yes",24,47.42044,-121.4211049,75
+"141",141,"Stevens Pass Ski Area","http://www.skicentral.com/stevenspass.html","Washington","Skykomish, Washington Mountain",1800,4061,450,37,1125,"n/a","character(0)",10,47.7448119,-121.0890197,79
+"142",142,"Mt. Spokane Ski & Snowboard Park","http://www.skicentral.com/spokane.html","Washington","Mead, Washington Mountain",2000,4200,NA,45,1425,"n/a","character(0)",5,47.921382,-117.096416,58
+"143",143,"49 Degrees North","http://www.skicentral.com/49degreesnorth.html","Washington","Chewelah, Washington Mountain",1851,3923,NA,82,2325,"2.75 miles / 4.4 km","character(0)",7,48.3010972,-117.5629161,59
+"144",144,"Loup Loup Ski Bowl","http://www.skicentral.com/louploupskibowl.html","Washington","Okanogan, Washington Mountain",1780,4040,150,10,300,"2 miles / 3.2 km","character(0)",3,48.3943616,-119.91097,50
+"145",145,"Mission Ridge","http://www.skicentral.com/missionridge.html","Washington","Wenatchee, Washington Mountain",2250,4570,NA,36,2000,"n/a","yes",6,47.2924455,-120.3997706,69
+"146",146,"Sahalie Ski Club","http://www.skicentral.com/sahalieskiclub.html","Washington","character(0)",NA,NA,NA,0,80,"n/a","character(0)",1,47.4307943,-121.4164657,NA
+"147",147,"Leavenworth Ski HIll","http://www.skicentral.com/leavenworthskihill.html","Washington","Leavenworth, Washington Mountain",200,1200,NA,2,NA,"n/a","character(0)",2,47.5988356,-120.6686832,19
+"148",148,"Hurricane Ridge","http://www.skicentral.com/hurricaneridge.html","Washington","Port Angeles, Washington Mountain",800,4800,400,10,NA,"n/a","character(0)",3,47.9331457,-123.4096268,34
+"149",149,"Bluewood","http://www.skicentral.com/bluewood.html","Washington","Dayton, Washington Mountain",1125,4545,300,24,400,"2.25 miles / 3.6 km","character(0)",3,46.0824866,-117.8511673,44
+"150",150,"White Pass","http://www.skicentral.com/whitepass.html","Washington","Naches, Washington ",1500,4500,390,40,NA,"n/a","yes",8,46.6387257,-121.389528,66
+"151",151,"Jackson Hole Mountain Resort","http://www.skicentral.com/jacksonhole.html","Wyoming","Teton Village, Wyoming Up to 40% Off Jackson Hole Resort Lodging & Ski PackagesJackson Hole lodging and complete ski packages up to 40% off. Book early & save with Rocky ",4139,6311,475,116,2500,"n/a","yes",13,43.5875453,-110.8279183,136
+"152",152,"Grand Targhee Ski Resort","http://www.skicentral.com/grandtarghee.html","Wyoming","Alta, Wyoming Mountain",2270,7408,500,72,2500,"n/a","yes",5,43.787113,-110.959296,85
+"153",153,"Snow King Resort","http://www.skicentral.com/snowking.html","Wyoming","Jackson, Wyoming ",1571,6237,150,16,400,"n/a","character(0)",4,43.4736695,-110.7547913,55
+"154",154,"Hogadon Ski Area","http://www.skicentral.com/hogadon.html","Wyoming","Casper, Wyoming Mountain",600,7400,NA,24,60,"n/a","yes",3,42.7452867,-106.3389955,42
+"155",155,"Pine Creek Ski Resort","http://www.skicentral.com/pinecreekskiresort.html","Wyoming","character(0)",1400,6875,NA,30,NA,"n/a","no",2,42.1029708,-110.8288255,45
+"156",156,"Sleeping Giant Ski Area","http://www.skicentral.com/sleepinggiantskiarea.html","Wyoming","Cody, Wyoming Mountain",810,6619,150,49,184,"n/a","character(0)",3,44.495161,-109.943619,36
+"157",157,"Snowy Range","http://www.skicentral.com/snowyrange.html","Wyoming","Centennial, Wyoming Mountain",865,8798,245,27,250,"1.8 miles / 2.9 km","character(0)",5,41.3412218,-106.1835168,49
+"158",158,"White Pine Ski Area","http://www.skicentral.com/whitepineskiarea.html","Wyoming","Pinedale, Wyoming Mountain",1100,8400,NA,25,370,"n/a","character(0)",2,42.9778494,-109.7586597,48
+"159",159,"Chestnut Mountain Resort","http://www.skicentral.com/chestnutmountainresort.html","Illinois","Galena, Illinois ",475,NA,NA,19,220,"n/a","character(0)",9,42.319017,-90.393793,55
+"160",160,"Four Lakes Village","http://www.skicentral.com/fourlakesvillage.html","Illinois","Lisle, Illinois Mountain",100,400,NA,5,NA,"n/a","yes",7,41.7833046,-88.0796163,28
+"161",161,"Raging Buffalo Snowboard and Ski Park","http://www.skicentral.com/ragingbuffalosnowboardpark.html","Illinois","Algonquin, Illinois Mountain",150,NA,40,5,NA,"700 feet / 213 meters","yes",3,42.1473153,-88.2939445,45
+"162",162,"Ski Snowstar","http://www.skicentral.com/skisnowstar.html","Illinois","Andalusia, Illinois Mountain",262,528,38,15,28,"3960 feet / 1207 meters","yes",6,41.425203,-90.746175,35
+"163",163,"Villa Olivia","http://www.skicentral.com/villaolivia.html","Illinois","Bartlett, Illinois Mountain",180,NA,NA,7,15,"1320 feet / 402 metres","yes",7,42.012825,-88.22016,40
+"164",164,"Paoli Peaks","http://www.skicentral.com/paolipeaks.html","Indiana","Paoli, Indiana Mountain",300,600,18,17,65,"n/a","character(0)",8,38.5555032,-86.5122754,42
+"165",165,"Perfect North Slopes","http://www.skicentral.com/perfectnorthslopes.html","Indiana","Lawrenceburg, Indiana Mountain",400,400,18,23,100,"5280 feet / 1609 metres","yes",7,39.1474575,-84.8857301,52
+"166",166,"Mt. Crescent","http://www.skicentral.com/mtcrescent.html","Iowa","Honey Creek, Iowa Mountain",300,1046,NA,10,50,"2400 feet / 732 meters","yes",2,41.3917746,-95.8571909,39
+"167",167,"Seven Oaks Recreation Area","http://www.skicentral.com/sevenoaksrecreationarea.html","Iowa","Boone, Iowa Mountain",275,NA,NA,11,NA,"n/a","yes",4,42.0306987,-93.9533806,39
+"168",168,"Sundown Mountain","http://www.skicentral.com/sundownmountain.html","Iowa","Dubuque, Iowa ",475,NA,NA,21,NA,"n/a","yes",6,42.5163315,-90.8186286,46
+"169",169,"Blackjack Ski Resort","http://www.skicentral.com/blackjack.html","Michigan","Bessemer, Michigan ",490,1185,204,26,170,"n/a","yes",6,46.5042363,-89.9981817,65
+"170",170,"Indianhead Mountain Resort","http://www.skicentral.com/indianhead.html","Michigan","500 Indianhead Rd Wakefield, Michigan ",638,1297,204,30,230,"n/a","yes",9,46.500277,-89.970939,65
+"171",171,"Ski Brule","http://www.skicentral.com/skibrule.html","Michigan","Iron River, Michigan ",500,1361,150,17,150,"n/a","yes",11,46.0273883,-88.6953512,49
+"172",172,"Big Powderhorn Mountain","http://www.skicentral.com/bigpowderhorn.html","Michigan","Bessemer, Michigan ",622,1218,214,33,253,"5280 feet / 1609 metres","yes",10,46.5097428,-90.0941598,69
+"173",173,"Boyne Highlands","http://www.skicentral.com/boynehighlands.html","Michigan","Harbor Springs, Michigan Mountain",552,NA,140,55,435,"1.25 miles / 2 km","yes",10,45.4647195,-84.9266096,95
+"174",174,"Boyne Mountain","http://www.skicentral.com/boyne.html","Michigan","Boyne Falls, Michigan ",500,620,140,60,415,"5280 feet / 1609 metres","yes",12,45.168065,-84.9161574,95
+"175",175,"Crystal Mountain Resort","http://www.skicentral.com/crystalmountainresort.html","Michigan","Thompsonville, Michigan ",375,757,132,58,102,"5280 feet / 1609 metres","yes",8,44.5193916,-85.9909062,54
+"176",176,"Shanty Creek Resorts","http://www.skicentral.com/shantycreekresorts.html","Michigan","Bellaire, Michigan Mountain",450,675,175,53,400,"1 feet / 0 meters","yes",12,44.9487833,-85.1853014,70
+"177",177,"Alpine Valley","http://www.skicentral.com/alpinevalleymichigan.html","Michigan","White Lake, Michigan Mountain",300,NA,NA,25,NA,"2000 feet / 610 meters","yes",14,42.6529705,-83.5230445,45
+"178",178,"Apple Mountain","http://www.skicentral.com/applemountain.html","Michigan","Freeland, Michigan ",220,NA,52,12,NA,"n/a","yes",5,43.4725234,-84.1032143,NA
+"179",179,"Caberfae Peaks Ski Resort","http://www.skicentral.com/caberfaepeaksskiresort.html","Michigan","Cadillac, Michigan ",485,1060,150,34,225,"3960 feet / 1207 meters","yes",5,44.2447088,-85.7205725,49
+"180",180,"Hanson Hills Recreation Area","http://www.skicentral.com/hansonhillsrecreationarea.html","Michigan","Grayling, Michigan Mountain",225,1137,3,11,125,"n/a","yes",4,44.6455709,-84.7534741,25
+"181",181,"Marquette Mountain","http://www.skicentral.com/marquettemountain.html","Michigan","Marquette, Michigan ",457,800,149,25,169,"1.25 miles / 2 km","yes",4,46.5082898,-87.4205293,48
+"182",182,"Mount Bohemia","http://www.skicentral.com/mountbohemia.html","Michigan","Lac La Belle, Michigan Mountain",900,NA,273,95,585,"n/a","no",2,47.3885878,-88.0221712,64
+"183",183,"Cannonsburg Ski Area","http://www.skicentral.com/cannonsburgskiarea.html","Michigan","Belmont, Michigan Mountain",250,668,12,20,NA,"n/a","character(0)",10,43.0541098,-85.5012494,37
+"184",184,"Mt. Holiday","http://www.skicentral.com/mtholiday.html","Michigan","Traverse City, Michigan Mountain",180,240,120,14,45,"n/a","character(0)",5,44.7434767,-85.5143504,34
+"185",185,"Mt. Zion","http://www.skicentral.com/mtzion.html","Michigan","Ironwood, Michigan Mountain",300,1100,200,9,20,"3960 feet / 1207 meters","yes",2,42.7188347,-83.3431522,NA
+"186",186,"Mulligans Hollow","http://www.skicentral.com/mulliganshollow.html","Michigan","Grand Haven, Michigan Mountain",NA,NA,NA,6,7,"700 feet / 213 meters","yes",5,43.0577903,-86.2397188,20
+"187",187,"Nub's Nob","http://www.skicentral.com/nubsnob.html","Michigan","Gaylord, Michigan ",427,911,123,53,248,"4752 feet / 1448 metres","yes",11,45.4717721,-84.9040952,76
+"188",188,"Otsego Club","http://www.skicentral.com/otsegoclub.html","Michigan","Gaylord, Michigan Mountain",358,1049,155,31,NA,"360 feet / 110 meters","yes",5,45.0277331,-84.6553341,65
+"189",189,"Pando Ski Center","http://www.skicentral.com/pandoskicenter.html","Michigan","Rockford, Michigan Mountain",125,NA,75,8,55,"500 feet / 152 meters","yes",6,43.0541098,-85.5012494,37
+"190",190,"Pine Knob Ski Resort","http://www.skicentral.com/pineknobskiresort.html","Michigan","Clarkston, Michigan Mountain",300,NA,NA,17,NA,"n/a","yes",12,42.7456304,-83.3691037,45
+"191",191,"Pine Mountain Ski Resort","http://www.skicentral.com/pinemountainskiresort.html","Michigan","Iron Mountain, Michigan ",500,NA,NA,27,160,"n/a","yes",5,45.8393161,-88.0884285,48
+"192",192,"Porcupine Mountains","http://www.skicentral.com/porcupinemountains.html","Michigan","Silver City, Michigan ",787,NA,200,42,NA,"5280 feet / 1609 metres","character(0)",1,46.7759417,-89.7350566,27
+"193",193,"Mt. Brighton","http://www.skicentral.com/mtbrighton.html","Michigan","Brighton, Michigan Mountain",230,NA,NA,26,130,"1478 feet / 451 metres","yes",18,42.5407834,-83.8115528,57
+"194",194,"Ski Bittersweet","http://www.skicentral.com/skibittersweet.html","Michigan","Otsego, Michigan Mountain",350,NA,NA,20,NA,"n/a","yes",15,42.467159,-85.758719,46
+"195",195,"Mont Ripley","http://www.skicentral.com/montripley.html","Michigan","Hancock, Michigan Mountain",440,NA,250,24,112,"n/a","yes",3,47.127847,-88.560052,49
+"196",196,"Ski Mt. Holly","http://www.skicentral.com/skimtholly.html","Michigan","Holly, Michigan ",350,NA,NA,19,100,"n/a","yes",7,42.8309394,-83.5641565,45
+"197",197,"Snow Snake Ski And Golf","http://www.skicentral.com/snowsnakeskiandgolf.html","Michigan","Harrison, Michigan ",210,NA,11,10,NA,"n/a","yes",6,43.959106,-84.7809281,30
+"198",198,"Swiss Valley","http://www.skicentral.com/swissvalley.html","Michigan","Jones, Michigan Mountain",225,NA,NA,11,NA,"n/a","yes",7,41.9541345,-85.8271408,42
+"199",199,"The Homestead","http://www.skicentral.com/thehomesteadresort.html","Michigan","Glen Arbor, Michigan Mountain",375,500,150,15,16,"1320 feet / 402 meters","yes",5,44.9134552,-85.964345,50
+"200",200,"Timber Ridge","http://www.skicentral.com/timberridge.html","Michigan","Gobles, Michigan Mountain",240,610,60,16,50,"2000 feet / 610 meters","yes",10,42.3915135,-85.7809495,40
+"201",201,"Treetops Sylvan","http://www.skicentral.com/treetopssylvan.html","Michigan","Gaylord, Michigan Mountain",225,1120,150,23,80,"2200 feet / 671 meters","yes",7,45.0330717,-84.5892232,47
+"202",202,"Lutsen Mountains","http://www.skicentral.com/lutsen.html","Minnesota","Lutsen, Minnesota ",825,863,115,92,1000,"2 miles / 3.2 km","yes",9,47.663713,-90.7135557,82
+"203",203,"Giants Ridge Ski Resort","http://www.skicentral.com/giantsridge.html","Minnesota","Biwabik, Minnesota Mountain",500,1472,85,35,202,"3960 feet / 1207 metres","yes",6,47.5765197,-92.3031692,56
+"204",204,"Afton Alps","http://www.skicentral.com/aftonalps.html","Minnesota","Hastings, Minnesota Mountain",350,350,55,48,300,"n/a","yes",20,44.8538425,-92.7856179,60
+"205",205,"Andes Tower Hills","http://www.skicentral.com/andestowerhills.html","Minnesota","Kensington, Minnesota Mountain",290,1330,NA,15,NA,"n/a","character(0)",4,45.850975,-95.6304971,44
+"206",206,"Buck Hill Ski Resort","http://www.skicentral.com/buckhillskiresort.html","Minnesota","Burnsville, Minnesota Mountain",262,949,60,16,NA,"n/a","yes",9,44.7231319,-93.287252,45
+"207",207,"Buena Vista Ski Area","http://www.skicentral.com/buenavistaskiarea.html","Minnesota","Bemidji, Minnesota Mountain",230,NA,NA,18,NA,"n/a","character(0)",6,47.6580367,-94.8788904,42
+"208",208,"Coffee Mill Ski Area","http://www.skicentral.com/coffeemillskiarea.html","Minnesota","character(0)",425,NA,NA,14,NA,"n/a","character(0)",3,44.3636613,-92.0434902,32
+"209",209,"Hyland Ski & Snowboard Area","http://www.skicentral.com/hylandskisnowboardarea.html","Minnesota","Bloomington, Minnesota Mountain",175,850,NA,9,NA,"n/a","yes",9,44.84363,-93.363611,35
+"210",210,"Mount Kato Ski & Bike","http://www.skicentral.com/mountkatoskibike.html","Minnesota","Mankato, Minnesota Mountain",240,610,NA,19,65,"n/a","character(0)",10,44.1331486,-94.0334256,45
+"211",211,"Powder Ridge","http://www.skicentral.com/powderridge.html","Minnesota","Kimball, Minnesota Mountain",290,NA,NA,15,NA,"n/a","character(0)",6,45.3437094,-94.3052638,48
+"212",212,"Mount Ski Gull","http://www.skicentral.com/skigull.html","Minnesota","Nisswa, Minnesota Mountain",230,1285,NA,10,NA,"n/a","yes",3,46.4475173,-94.3779162,32
+"213",213,"Spirit Mountain","http://www.skicentral.com/spiritmountain.html","Minnesota","Duluth, Minnesota ",700,620,NA,21,NA,"n/a","character(0)",7,46.7182684,-92.2167365,55
+"214",214,"Welch Village Ski Resort","http://www.skicentral.com/welchvillageskiresort.html","Minnesota","Welch, Minnesota Mountain",360,700,NA,50,NA,"n/a","character(0)",10,44.5607394,-92.7304159,58
+"215",215,"Wild Mountain","http://www.skicentral.com/wildmountain.html","Minnesota","Taylors Falls, Minnesota ",300,NA,NA,26,NA,"n/a","character(0)",8,45.4888439,-92.7053062,52
+"216",216,"Snow Creek","http://www.skicentral.com/snowcreek.html","Missouri","Weston, Missouri Mountain",300,NA,NA,12,NA,"n/a","yes",5,39.4673593,-94.9707828,44
+"217",217,"Hidden Valley Golf & Ski Resort","http://www.skicentral.com/hiddenvalleygolfskiresort.html","Missouri","Wildwood, Missouri Mountain",310,NA,NA,15,60,"n/a","yes",10,36.9836836,-93.369079,48
+"218",218,"Bottineau Winter Park","http://www.skicentral.com/bottineauwinterpark.html","North Dakota","Bottineau, North Dakota Mountain",180,2270,NA,9,40,"n/a","yes",6,48.9512327,-100.4775281,35
+"219",219,"Frost Fire","http://www.skicentral.com/frostfire.html","North Dakota","Walhalla, North Dakota Mountain",350,NA,NA,10,NA,"2600 feet / 792 meters","yes",3,48.9115064,-98.0675928,23
+"220",220,"Huff Hills Ski Area","http://www.skicentral.com/huffhillsskiarea.html","North Dakota","Mandan, North Dakota Mountain",450,NA,NA,16,NA,"3960 feet / 1207 meters","yes",4,46.6268609,-100.723275,30
+"221",221,"Alpine Valley","http://www.skicentral.com/alpinevalley.html","Ohio","character(0)",260,1260,113,7,NA,"n/a","character(0)",5,41.52687,-81.259745,43
+"222",222,"BostonMills - Brandywine","http://www.skicentral.com/bostonmills-brandywine.html","Ohio","Peninsula, Ohio Mountain",264,NA,58,18,NA,"n/a","yes",18,41.2648239,-81.5642702,43
+"223",223,"Mad River Mountain","http://www.skicentral.com/madrivermountain.html","Ohio","Zanesfield, Ohio ",300,1160,22,20,144,"n/a","character(0)",12,40.3180764,-83.6776953,45
+"224",224,"Snow Trails","http://www.skicentral.com/snowtrails.html","Ohio","Mansfield, Ohio Mountain",300,1174,52,17,80,"2000 feet / 610 meters","yes",7,40.672904,-82.498508,52
+"225",225,"Big Creek Ski Area","http://www.skicentral.com/bigcreekskiarea.html","Ohio","character(0)",175,1290,102,5,23,"n/a","yes",2,41.647257,-81.184051,NA
+"226",226,"Terry Peak","http://www.skicentral.com/terrypeak.html","South Dakota","Lead, South Dakota Mountain",1100,NA,150,30,450,"n/a","yes",4,44.3274841,-103.8352015,56
+"227",227,"Great Bear Recreation","http://www.skicentral.com/greatbearrecreationpark.html","South Dakota","Sioux Falls, South Dakota Mountain",190,NA,NA,14,NA,"n/a","yes",2,43.578002,-96.664547,26
+"228",228,"Deer Mountain","http://www.skicentral.com/mysticminerskiresort.html","South Dakota","Lead, South Dakota ",850,6000,200,50,NA,"n/a","character(0)",3,44.3085778,-103.8103912,45
+"229",229,"Granite Peak Ski Area","http://www.skicentral.com/granitepeak.html","Wisconsin","Wausau, Wisconsin Mountain",700,1250,75,74,275,"n/a","yes",8,44.929236,-89.683162,76
+"230",230,"Devils Head","http://www.skicentral.com/devilshead.html","Wisconsin","Merrimac, Wisconsin ",500,495,70,30,300,"1.5 miles / 2.4 km","yes",11,43.4180036,-89.6268972,57
+"231",231,"Alpine Valley Resort","http://www.skicentral.com/alpinevalleyresort.html","Wisconsin","Elkhorn, Wisconsin ",388,NA,NA,20,90,"n/a","character(0)",12,42.7358161,-88.4280693,51
+"232",232,"Whitecap Mountains","http://www.skicentral.com/whitecapmountains.html","Wisconsin","Upson, Wisconsin ",400,1295,NA,43,NA,"n/a","yes",7,46.4079894,-90.3951936,55
+"233",233,"Cascade Mountain","http://www.skicentral.com/cascademountain.html","Wisconsin","Portage, Wisconsin ",450,820,NA,36,160,"n/a","yes",10,43.5037245,-89.5172569,59
+"234",234,"Blackhawk Ski Club","http://www.skicentral.com/blackhawkskiclub.html","Wisconsin","Middleton, Wisconsin ",300,NA,NA,6,NA,"n/a","yes",5,43.082221,-89.5684229,NA
+"235",235,"Bruce Mound Winter Sports Area","http://www.skicentral.com/brucemound.html","Wisconsin","Merrillan, Wisconsin Mountain",375,NA,NA,8,NA,"3000 feet / 914 meters","yes",5,44.4456559,-90.7845327,23
+"236",236,"Camp 10 Ski n Snowboard","http://www.skicentral.com/camp10skinsnowboard.html","Wisconsin","Rhinelander, Wisconsin Mountain",250,NA,NA,15,NA,"1800 feet / 549 meters","yes",4,45.5501128,-89.504204,34
+"237",237,"Christie Mountain","http://www.skicentral.com/christiemountain.html","Wisconsin","Bruce, Wisconsin ",350,1300,NA,26,NA,"4013 feet / 1223 metres","yes",6,45.5090925,-91.3808238,37
+"238",238,"Christmas Mountain Village","http://www.skicentral.com/christmasmountainvillage.html","Wisconsin","Wisconsin Dells, Wisconsin ",250,1000,39,15,40,"n/a","yes",5,43.609581,-89.861353,45
+"239",239,"Grand Geneva","http://www.skicentral.com/grandgeneva.html","Wisconsin","Lake Geneva, Wisconsin ",211,875,34,18,30,"n/a","yes",5,42.6027401,-88.4053708,49
+"240",240,"Keyes Peak Ski Hill","http://www.skicentral.com/keyespeakskihill.html","Wisconsin","Florence, Wisconsin Mountain",230,NA,60,5,NA,"450 feet / 137 meters","yes",3,45.8957406,-88.2994879,12
+"241",241,"Little Switzerland","http://www.skicentral.com/littleswitzerland.html","Wisconsin","Slinger, Wisconsin Mountain",200,1069,45,15,50,"1800 feet / 549 meters","yes",7,43.3378391,-88.2789304,45
+"242",242,"Mont Du Lac","http://www.skicentral.com/montdulac.html","Wisconsin","Superior, Wisconsin Mountain",320,NA,55,8,10,"3000 feet / 914 meters","yes",3,46.653216,-92.2842591,40
+"243",243,"Mt. La Crosse Ski Area","http://www.skicentral.com/mtlacrosseskiarea.html","Wisconsin","La Crosse, Wisconsin Mountain",516,594,NA,19,100,"5300 feet / 1615 meters","yes",4,43.7436241,-91.1829743,56
+"244",244,"Nordic Mountain","http://www.skicentral.com/nordicmountain.html","Wisconsin","Wild Rose, Wisconsin ",265,NA,NA,14,NA,"n/a","character(0)",6,44.1197015,-89.174718,46
+"245",245,"Sunburst","http://www.skicentral.com/sunburst.html","Wisconsin","Kewaskum, Wisconsin Mountain",214,NA,NA,12,40,"n/a","yes",6,43.493936,-88.224007,44
+"246",246,"Trollhaugen","http://www.skicentral.com/trollhaugen.html","Wisconsin","Dresser, Wisconsin Mountain",260,NA,51,24,90,"2500 feet / 762 meters","yes",10,45.3513159,-92.6180935,51
+"247",247,"Tyrol Basin","http://www.skicentral.com/tyrolbasin.html","Wisconsin","Mount Horeb, Wisconsin ",260,870,NA,18,30,"n/a","yes",6,43.0460356,-89.7805081,45
+"248",248,"Ausblick","http://www.skicentral.com/ausblick.html","Wisconsin","Sussex, Wisconsin Mountain",182,970,NA,6,NA,"n/a","yes",2,43.1346697,-88.2645831,NA
+"249",249,"Wilmot Mountain","http://www.skicentral.com/wilmotmountain.html","Wisconsin","Wilmot, Wisconsin ",190,770,48,25,120,"2500 feet / 762 meters","yes",11,42.4989548,-88.1876602,66
+"250",250,"Mohawk Mountain","http://www.skicentral.com/mohawkmountain.html","Connecticut","West Cornwall, Connecticut ",650,960,59,25,112,"6600 feet / 2012 meters","yes",8,41.838231,-73.3150586,64
+"251",251,"Mount Southington","http://www.skicentral.com/mountsouthington.html","Connecticut","Plantsville, Connecticut Special Packages at Woodloch Resort - Ski 'N' StayWoodloch Pines Resort is just a short 90 mile drive from the NYC area! Winner of Trip Advisor's 2012 'Traveler's Choice Award.' Kids 6 & under free during select midweeks! ",425,100,80,14,51,"n/a","character(0)",7,41.5820605,-72.9249201,59
+"252",252,"Ski Sundown","http://www.skicentral.com/skisundown.html","Connecticut","New Hartford, Connecticut ",625,450,NA,15,65,"n/a","character(0)",5,41.8846852,-72.9466986,62
+"253",253,"Woodbury Ski Area","http://www.skicentral.com/woodburyskiarea.html","Connecticut","Woodbury, Connecticut Special Packages at Woodloch Resort - Ski 'N' StayWoodloch Pines Resort is just a short 90 mile drive from the NYC area! Winner of Trip Advisor's 2012 'Traveler's Choice Award.' Kids 6 & under free during select midweeks! ",300,NA,NA,12,100,"n/a","character(0)",5,41.5905993,-73.2553654,42
+"254",254,"Powder Ridge Park","http://www.skicentral.com/powderridgepark.html","Connecticut","Middlefield, Connecticut Mountain",550,170,38,19,80,"n/a","yes",5,41.500524,-72.740749,55
+"255",255,"Sugarloaf","http://www.skicentral.com/sugarloaf.html","Maine","Carrabassett Valley, Maine ",2820,1417,200,161,1230,"3.5 miles / 5.6 km","yes",14,45.0314444,-70.3131231,85
+"256",256,"Sunday River","http://www.skicentral.com/sundayriver.html","Maine","Newry, Maine ",2340,800,167,135,870,"n/a","yes",15,44.473609,-70.856951,105
+"257",257,"Black Mountain of Maine","http://www.skicentral.com/blackmountainmaine.html","Maine","Rumford, Maine ",1150,1000,NA,20,NA,"5280 feet / 1609 metres","yes",4,44.576957,-70.613337,37
+"258",258,"Camden Snow Bowl","http://www.skicentral.com/camdensnowbowl.html","Maine","Camden, Maine ",850,235,NA,23,NA,"n/a","yes",3,44.2172719,-69.1346694,35
+"259",259,"Eaton Mountain","http://www.skicentral.com/eatonmountain.html","Maine","character(0)",620,NA,NA,17,130,"n/a","yes",2,44.767699,-69.6174431,15
+"260",260,"Lost Valley","http://www.skicentral.com/lostvalley.html","Maine","Auburn, Maine ",240,240,99,16,45,"n/a","yes",2,44.1340569,-70.2823728,49
+"261",261,"Mt. Abram Ski Resort","http://www.skicentral.com/mtabramskiresort.html","Maine","Greenwood, Maine ",1150,NA,NA,51,NA,"n/a","yes",5,44.3797963,-70.7068649,59
+"262",262,"Hermon Mountain","http://www.skicentral.com/newhermonmountain.html","Maine","Hermon, Maine ",256,NA,NA,20,60,"4752 feet / 1448 metres","yes",2,44.7807854,-68.9572709,32
+"263",263,"Powderhouse Hill","http://www.skicentral.com/powderhousehill.html","Maine","South Berwick, Maine ",175,119,NA,3,NA,"n/a","no",1,44.6833931,-70.1478397,NA
+"264",264,"Saddleback Ski Area","http://www.skicentral.com/saddlebackskiarea.html","Maine","Rangeley, Maine ",2000,2460,225,66,220,"3.1 miles / 5 km","yes",5,44.9462173,-70.5270814,69
+"265",265,"Shawnee Peak Skiing","http://www.skicentral.com/shawneepeakskiing.html","Maine","Bridgton, Maine ",1300,NA,NA,40,249,"n/a","yes",5,44.058996,-70.815538,69
+"266",266,"Mt Jefferson Ski Area","http://www.skicentral.com/skimtjefferson.html","Maine","Lee, Maine ",432,NA,NA,12,NA,"n/a","no",2,45.3539848,-68.2830345,20
+"267",267,"Titcomb Mountain","http://www.skicentral.com/skititcomb.html","Maine","Farmington, Maine ",350,400,85,16,45,"n/a","yes",3,44.6497498,-70.1703715,22
+"268",268,"Big Squaw Mountain","http://www.skicentral.com/bigsquawmountain.html","Maine","Greenville Junction, Maine ",800,NA,NA,17,NA,"n/a","yes",1,45.4842129,-69.7111681,30
+"269",269,"Bigrock Mountain","http://www.skicentral.com/bigrock.html","Maine","Mars Hill, Maine ",980,NA,NA,35,NA,"n/a","yes",3,46.5224036,-67.8289461,38
+"270",270,"Jiminy Peak","http://www.skicentral.com/jiminypeak.html","Massachusetts","Hancock, Massachusetts ",1150,1245,100,45,170,"2 miles / 3.2 km","yes",9,42.5553893,-73.292165,76
+"271",271,"Berkshire East Ski Resort","http://www.skicentral.com/berkshireeastskiresort.html","Massachusetts","Charlemont, Massachusetts ",1180,660,110,52,162,"n/a","yes",6,42.622664,-72.878383,68
+"272",272,"Ski Butternut","http://www.skicentral.com/butternut.html","Massachusetts","Great Barrington, Massachusetts ",1000,800,110,22,110,"n/a","yes",10,42.1836997,-73.3201482,60
+"273",273,"Blandford Ski Area","http://www.skicentral.com/blandfordskiarea.html","Massachusetts","Blandford, Massachusetts ",465,1220,50,22,158,"n/a","yes",5,42.19584,-72.916617,45
+"274",274,"Blue Hills Ski Area","http://www.skicentral.com/bluehillsskiarea.html","Massachusetts","Canton, Massachusetts ",309,NA,NA,12,60,"n/a","yes",4,42.2158315,-71.1190756,45
+"275",275,"Bousquet Ski Area","http://www.skicentral.com/bousquetskiarea.html","Massachusetts","Pittsfield, Massachusetts Mountain",750,NA,NA,23,200,"n/a","yes",5,42.418008,-73.277199,47
+"276",276,"Mount Greylock Ski Club","http://www.skicentral.com/mountgreylockskiclub.html","Massachusetts","character(0)",350,NA,NA,17,NA,"n/a","no",2,42.6375821,-73.1662155,NA
+"277",277,"Nashoba Valley","http://www.skicentral.com/nashobavalley.html","Massachusetts","Westford, Massachusetts ",240,NA,50,17,NA,"2640 feet / 805 metres","yes",10,42.542564,-71.445036,55
+"278",278,"Otis Ridge","http://www.skicentral.com/otisridge.html","Massachusetts","Otis, Massachusetts ",400,1300,NA,10,70,"n/a","yes",3,42.1963827,-73.0984001,40
+"279",279,"Ski Bradford","http://www.skicentral.com/skibradford.html","Massachusetts","Haverhill, Massachusetts ",220,1300,NA,15,48,"n/a","yes",10,42.7447273,-71.0558152,52
+"280",280,"Ski Ward","http://www.skicentral.com/skiward.html","Massachusetts","Shrewsbury, Massachusetts ",220,NA,NA,9,45,"n/a","yes",4,42.3014833,-71.6829768,52
+"281",281,"Wachusett Mountain","http://www.skicentral.com/wachusettmountain.html","Massachusetts","Princeton, Massachusetts ",1000,NA,NA,22,110,"1.5 miles / 2.4 km","yes",8,42.4891723,-71.8870425,71
+"282",282,"Cannon Mountain","http://www.skicentral.com/cannonmountain.html","New Hampshire","Franconia, New Hampshire ",2180,1900,160,72,282,"2.3 miles / 3.7 km","yes",10,44.1564536,-71.6984172,77
+"283",283,"Loon Mountain","http://www.skicentral.com/loon.html","New Hampshire","Lincoln, New Hampshire ",2100,950,163,61,370,"2.5 miles / 4 km","yes",12,44.03597,-71.6214399,96
+"284",284,"Wildcat Mountain","http://www.skicentral.com/wildcat.html","New Hampshire","Gorham, New Hampshire ",2112,1950,200,50,225,"2.75 miles / 4.4 km","yes",5,44.2589548,-71.2014625,85
+"285",285,"Bretton Woods","http://www.skicentral.com/brettonwoods.html","New Hampshire","Carroll, New Hampshire ",1500,1600,200,97,464,"n/a","yes",10,44.2581201,-71.4411894,93
+"286",286,"Attitash","http://www.skicentral.com/attitash.html","New Hampshire","Bartlett, New Hampshire ",1750,600,120,67,310,"n/a","yes",11,44.082771,-71.229443,85
+"287",287,"Cranmore","http://www.skicentral.com/cranmore.html","New Hampshire","North Conway, New Hampshire ",1200,527,120,57,170,"5280 feet / 1609 metres","yes",9,44.0568523,-71.0995926,75
+"288",288,"Mount Sunapee","http://www.skicentral.com/mountsunapee.html","New Hampshire","Newbury, New Hampshire ",1510,1230,100,66,233,"2 miles / 3.2 km","yes",11,43.313611,-72.074167,93
+"289",289,"Black Mountain","http://www.skicentral.com/blackmountain.html","New Hampshire","Jackson, New Hampshire ",1100,1300,120,45,143,"n/a","yes",4,44.1666812,-71.1637835,59
+"290",290,"Waterville Valley","http://www.skicentral.com/waterville.html","New Hampshire","Waterville Valley, New Hampshire ",2020,1984,148,52,220,"1.9 miles / 3.1 km","yes",11,43.9500695,-71.4995204,87
+"291",291,"Tuckerman Ravine","http://www.skicentral.com/tuckerman.html","New Hampshire","Conway, New Hampshire ",NA,NA,NA,0,NA,"n/a","character(0)",0,44.2625024,-71.2983353,NA
+"292",292,"Gunstock","http://www.skicentral.com/gunstock.html","New Hampshire","Gilford, New Hampshire ",1400,NA,120,55,227,"1.5 miles / 2.4 km","yes",8,43.5410554,-71.3628798,76
+"293",293,"King Pine Ski Area","http://www.skicentral.com/kingpineskiarea.html","New Hampshire","Madison, New Hampshire ",350,NA,82,17,45,"n/a","yes",6,43.8680791,-71.0889018,55
+"294",294,"Dartmouth Skiway","http://www.skicentral.com/dartmouthskiway.html","New Hampshire","Lyme, New Hampshire Mountain",968,975,NA,30,104,"1.25 miles / 2 km","yes",3,43.787748,-72.099538,49
+"295",295,"Crotched Mountain","http://www.skicentral.com/crotchedmountain.html","New Hampshire","Bennington, New Hampshire ",1000,1050,NA,25,100,"1.23 miles / 2 km","yes",5,42.9984151,-71.8736895,69
+"296",296,"Pats Peak","http://www.skicentral.com/patspeak.html","New Hampshire","Henniker, New Hampshire ",770,680,NA,28,NA,"1.5 miles / 2.4 km","yes",11,43.1627329,-71.7967168,70
+"297",297,"Ragged MT","http://www.skicentral.com/raggedmt.html","New Hampshire","Danbury, New Hampshire ",1250,NA,NA,55,224,"n/a","yes",7,43.485429,-71.842089,79
+"298",298,"Storrs Hill Ski Area","http://www.skicentral.com/storrshill.html","New Hampshire","character(0)",200,280,NA,2,NA,"n/a","yes",1,43.6351892,-72.2521083,15
+"299",299,"McIntyre Ski Area","http://www.skicentral.com/mcintyreskiarea.html","New Hampshire","Manchester, New Hampshire ",200,NA,NA,9,NA,"n/a","character(0)",5,43.0065773,-71.4416724,38
+"300",300,"Granite Gorge Ski Area","http://www.skicentral.com/granitegorgeskiarea.html","New Hampshire","Roxbury Center, New Hampshire ",390,NA,100,17,25,"n/a","yes",4,42.970978,-72.212044,33
+"301",301,"Whaleback Ski Area","http://www.skicentral.com/whalebackskiarea.html","New Hampshire","Enfield, New Hampshire ",700,1100,110,30,85,"5280 feet / 1609 metres","yes",3,43.601705,-72.180265,45
+"302",302,"Arrowhead Ski Area","http://www.skicentral.com/arrowheadskiarea.html","New Hampshire","Claremont, New Hampshire ",512,NA,NA,9,NA,"n/a","character(0)",2,43.3636884,-72.33384,NA
+"303",303,"Whiteface Mountain","http://www.skicentral.com/whiteface.html","New York","Wilmington, New York ",3430,1220,195,86,283,"2.1 miles / 3.4 km","yes",11,44.3658804,-73.9026456,94
+"304",304,"Gore Mountain","http://www.skicentral.com/goremountain.html","New York","North Creek, New York ",2537,998,150,107,439,"4.4 miles / 7.1 km","yes",14,43.6749627,-74.046371,86
+"305",305,"Hunter Mountain","http://www.skicentral.com/huntermountain.html","New York","Hunter, New York ",1600,1600,125,58,240,"n/a","yes",12,42.2039476,-74.2232327,85
+"306",306,"Belleayre Mountain","http://www.skicentral.com/belleayre.html","New York","Highmount, New York ",1404,2025,141,50,171,"12024 feet / 3665 meters","yes",8,42.1322453,-74.505312,68
+"307",307,"Holiday Valley","http://www.skicentral.com/holidayvalley.html","New York","Ellicottville, New York ",750,1500,180,58,290,"4224 feet / 1287 metres","yes",13,42.2624734,-78.6682833,75
+"308",308,"Windham Mountain","http://www.skicentral.com/skiwindham.html","New York","Windham, New York ",1600,1500,105,54,285,"12500 feet / 3810 meters","yes",12,42.2937298,-74.2567116,85
+"309",309,"Greek Peak","http://www.skicentral.com/greekpeak.html","New York","Cortland, New York ",952,1148,122,38,220,"1.5 miles / 2.4 km","yes",6,42.5082644,-76.1454427,78
+"310",310,"Catamount Ski Area","http://www.skicentral.com/catamount.html","New York","Hillsdale, New York ",1000,1000,75,36,130,"1.75 miles / 2.8 km","yes",7,42.1690998,-73.4769258,68
+"311",311,"Peek'n Peak Resort","http://www.skicentral.com/peeknpeak.html","New York","Clymer, New York ",400,1400,200,27,105,"3281 feet / 1000 metres","yes",10,42.062038,-79.735593,59
+"312",312,"HoliMont","http://www.skicentral.com/holimont.html","New York","Ellicottville, New York ",700,1560,180,52,135,"4000 feet / 1219 meters","yes",8,42.2732483,-78.689067,72
+"313",313,"Titus Mountain","http://www.skicentral.com/titus.html","New York","Malone, New York ",1200,825,130,36,200,"n/a","yes",10,44.766619,-74.2329229,36
+"314",314,"Kissing Bridge","http://www.skicentral.com/kissingbridge.html","New York","Glenwood Landing, New York ",550,1200,182,38,700,"6000 feet / 1829 meters","yes",10,42.6074594,-78.6527776,60
+"315",315,"Buffalo Ski Club","http://www.skicentral.com/buffaloskiclub.html","New York","Colden, New York Mountain",500,2025,NA,43,300,"n/a","yes",6,42.680979,-78.69204,50
+"316",316,"Bristol Mountain","http://www.skicentral.com/bristolmountain.html","New York","Canandaigua, New York ",1200,1000,NA,35,138,"n/a","yes",6,42.746697,-77.40194,74
+"317",317,"Ski Big Tupper Again","http://www.skicentral.com/bigtupper.html","New York","Tupper Lake, New York ",1151,2000,90,25,NA,"n/a","no",2,44.2233425,-74.4661253,25
+"318",318,"Hickory Ski Center","http://www.skicentral.com/hickoryskicenter.html","New York","Warrensburg, New York ",1200,700,80,18,225,"n/a","no",4,43.4744097,-73.8173438,45
+"319",319,"Holiday Mountain","http://www.skicentral.com/holidaymountain.html","New York","Monticello, New York ",400,1150,90,6,37,"n/a","yes",3,41.629592,-74.6144896,42
+"320",320,"Hunt Hollow Ski Club","http://www.skicentral.com/hunthollowskiclub.html","New York","Naples, New York ",825,NA,NA,20,80,"n/a","yes",4,42.6460964,-77.4781205,45
+"321",321,"Four Seasons Golf and Ski Center","http://www.skicentral.com/fourseasonsgolfandskicenter.html","New York","Fayetteville, New York ",59,545,NA,4,12,"n/a","yes",2,43.034984,-75.971873,24
+"322",322,"Cazenovia Ski Club","http://www.skicentral.com/cazenoviaskiclub.html","New York","Cazenovia, New York ",460,NA,NA,13,25,"n/a","character(0)",3,42.97673,-75.8557189,NA
+"323",323,"Maple Ski Ridge","http://www.skicentral.com/mapleskiridge.html","New York","Schenectady, New York ",1200,750,NA,8,25,"n/a","yes",4,42.8177282,-74.0316482,38
+"324",324,"McCauley Mountain","http://www.skicentral.com/mccauleymountain.html","New York","Old Forge, New York ",633,1567,281,21,75,"n/a","yes",5,43.6925675,-74.9612837,30
+"325",325,"Mount Pisgah","http://www.skicentral.com/mountpisgah.html","New York","Saranac Lake, New York ",329,NA,NA,5,15,"n/a","yes",1,44.3456143,-74.1257132,25
+"326",326,"Beartown Ski Area","http://www.skicentral.com/beartownskiarea.html","New York","West Chazy, New York ",150,NA,NA,9,NA,"n/a","yes",2,44.7640957,-73.5837774,22
+"327",327,"Mt. Peter Ski Area","http://www.skicentral.com/mtpeterskiarea.html","New York","Warwick, New York ",400,NA,49,14,69,"n/a","yes",5,41.2477999,-74.2951873,54
+"328",328,"Oak Mountain Ski Center","http://www.skicentral.com/oakmountainskicenter.html","New York","Speculator, New York ",650,1750,120,22,NA,"1.5 miles / 2.4 km","yes",3,43.5181145,-74.3622147,26
+"329",329,"Plattekill","http://www.skicentral.com/plattekill.html","New York","Roxbury, New York ",1100,2400,190,35,112,"2 miles / 3.2 km","yes",3,41.6239741,-74.0593872,65
+"330",330,"Polar Peak Ski Bowl","http://www.skicentral.com/polarpeakskibowl.html","New York","Taghkanic, NY ",114,NA,65,10,NA,"1320 feet / 402 metres","yes",1,43.6732782,-74.0068455,NA
+"331",331,"Royal Mountain Ski Area","http://www.skicentral.com/royalmountainskiarea.html","New York","Johnstown, New York ",550,NA,NA,14,30,"n/a","yes",3,43.0813015,-74.5048141,45
+"332",332,"Ski Venture","http://www.skicentral.com/skiventure.html","New York","Glenville, New York ",100,NA,NA,12,NA,"n/a","character(0)",2,42.9226824,-74.0364808,NA
+"333",333,"Labrador Mountain","http://www.skicentral.com/labradormountain.html","New York","Cortland, New York ",700,1125,125,22,250,"5280 feet / 1609 metres","yes",6,42.741791,-76.030215,53
+"334",334,"Snow Ridge Ski Area","http://www.skicentral.com/snowridgeskiarea.html","New York","Turin, New York ",500,NA,230,22,130,"n/a","yes",6,43.6397478,-75.4201233,40
+"335",335,"Song Mountain","http://www.skicentral.com/songmountain.html","New York","Tully, NY ",700,NA,NA,24,100,"n/a","yes",5,42.774219,-76.158766,56
+"336",336,"Swain Resort","http://www.skicentral.com/swainskicenter.html","New York","Swain, New York ",650,1320,130,30,100,"5280 feet / 1609 metres","yes",5,42.4765984,-77.8551328,56
+"337",337,"Thunder Ridge Ski Area","http://www.skicentral.com/thunderridgeskiarea.html","New York","Patterson, New York ",600,NA,33,30,90,"n/a","yes",7,41.5120196,-73.5775763,52
+"338",338,"Dry Hill Ski Area","http://www.skicentral.com/dryhill.html","New York","Watertown, New York Mountain",300,650,125,7,35,"n/a","yes",3,43.931234,-75.90181,40
+"339",339,"Toggenburg Mountain","http://www.skicentral.com/toggenburgmountain.html","New York","Fabius, New York ",520,1260,NA,21,85,"5280 feet / 1609 metres","yes",5,42.8262361,-75.9598749,55
+"340",340,"Tuxedo Ridge","http://www.skicentral.com/tuxedoridge.html","New York","Tuxedo Park, New York ",400,800,40,8,100,"2640 feet / 805 metres","yes",2,41.2481892,-74.2269919,NA
+"341",341,"West Mountain Ski Center","http://www.skicentral.com/westmountainskicenter.html","New York","Queensbury, New York ",460,1010,NA,40,124,"n/a","yes",5,43.2856216,-73.7252813,59
+"342",342,"Brantling Ski and Snowboard Center","http://www.skicentral.com/brantlingskiandsnowboardcenter.html","New York","Sodus, New York ",240,NA,NA,9,35,"n/a","yes",5,43.1500556,-77.0657092,32
+"343",343,"Willard Mountain","http://www.skicentral.com/willardmountainnewyork.html","New York","Greenwich, New York ",505,910,NA,14,50,"n/a","yes",5,43.020657,-73.515881,38
+"344",344,"Woods Valley Ski Area","http://www.skicentral.com/woodsvalleyskiarea.html","New York","Westernville, New York ",500,NA,NA,15,25,"n/a","yes",3,43.302667,-75.3847614,39
+"345",345,"Yawgoo Valley","http://www.skicentral.com/yawgoovalley.html","Rhode Island","Exeter, Rhode Island Mountain",245,70,48,12,36,"n/a","yes",3,41.517597,-71.52726,47
+"346",346,"Killington","http://www.skicentral.com/killington.html","Vermont","Killington, Vermont ",3050,1165,250,155,1509,"n/a","yes",22,43.6775677,-72.7798247,115
+"347",347,"Stowe","http://www.skicentral.com/stowe.html","Vermont","Stowe, Vermont ",2360,1559,314,116,485,"n/a","yes",13,44.4654332,-72.6874023,99
+"348",348,"Okemo Mountain Resort","http://www.skicentral.com/okemo.html","Vermont","Ludlow, Vermont ",2200,1144,200,120,655,"4.5 miles / 7.2 km","yes",19,43.4015593,-72.7170006,110
+"349",349,"Sugarbush","http://www.skicentral.com/sugarbush.html","Vermont","Warren, Vermont ",2600,1483,269,111,578,"n/a","yes",16,44.13607,-72.8944,89
+"350",350,"Jay Peak","http://www.skicentral.com/jaypeak.html","Vermont","Jay, Vermont ",2153,1815,251,78,385,"3 miles / 4.8 km","yes",9,44.9379405,-72.5045173,84
+"351",351,"Smugglers Notch","http://www.skicentral.com/smugglersnotch.html","Vermont","Jeffersonville, Vermont ",2610,1030,288,78,1000,"n/a","yes",8,44.5553294,-72.795679,76
+"352",352,"Stratton","http://www.skicentral.com/stratton.html","Vermont","Stratton Mountain, Vermont ",2003,1872,180,97,670,"3 miles / 4.8 km","yes",11,43.0428562,-72.9109334,115
+"353",353,"Mount Snow / Haystack","http://www.skicentral.com/mountsnow.html","Vermont","West Dover, Vermont ",1700,1900,156,80,588,"n/a","yes",20,42.9139691,-72.9195441,100
+"354",354,"Magic Mountain","http://www.skicentral.com/magicmountain.html","Vermont","Londonderry, Vermont ",1700,1150,180,43,195,"1.6 miles / 2.6 km","yes",4,43.201708,-72.772646,69
+"355",355,"Bromley Mountain","http://www.skicentral.com/bromley.html","Vermont","Peru, Vermont ",1334,1950,145,46,178,"2.5 miles / 4 km","yes",9,43.2135167,-72.9348876,80
+"356",356,"Mad River Glen","http://www.skicentral.com/madriverglen.html","Vermont","Waitsfield, Vermont ",2037,1600,250,45,115,"n/a","yes",4,44.2024842,-72.9175431,89
+"357",357,"Bolton Valley","http://www.skicentral.com/boltonvalley.html","Vermont","Bolton, Vermont Mountain",1704,2100,312,71,300,"n/a","yes",6,44.42099,-72.850323,74
+"358",358,"Pico Mountain","http://www.skicentral.com/pico.html","Vermont","Killington, Vermont ",1967,2000,250,57,265,"n/a","yes",7,43.6621499,-72.842512,79
+"359",359,"The Quechee Club","http://www.skicentral.com/quecheelakes.html","Vermont","Quechee, Vermont ",650,600,NA,13,NA,"n/a","yes",3,43.6570521,-72.4403071,45
+"360",360,"Middlebury College Snow Bowl","http://www.skicentral.com/middleburycollegesnowbowl.html","Vermont","Hancock, Vermont ",1050,1700,150,17,600,"n/a","character(0)",4,43.9391922,-72.9575872,55
+"361",361,"Lyndon Outing Club","http://www.skicentral.com/lyndonoutingclub.html","Vermont","Lyndonville, Vermont ",433,NA,NA,9,18,"n/a","no",2,44.5333103,-71.9872058,15
+"362",362,"Cochran's Ski Area","http://www.skicentral.com/cochransskiarea.html","Vermont","Richmond, Vermont ",350,600,150,8,15,"3281 feet / 1000 metres","yes",3,44.3962325,-72.9820347,25
+"363",363,"Burke Mountain","http://www.skicentral.com/burke.html","Vermont","East Burke, Vermont ",2011,1267,217,50,260,"2.5 miles / 4 km","yes",6,44.5877729,-71.9163107,69
+"364",364,"Suicide Six","http://www.skicentral.com/suicidesix.html","Vermont","Woodstock, Vermont ",650,550,110,23,100,"5280 feet / 1609 metres","yes",3,43.6650614,-72.5432659,72
+"365",365,"Cloudmont","http://www.skicentral.com/cloudmont.html","Alabama","Mentone, Alabama Mountain",150,1650,NA,2,9,"n/a","character(0)",2,34.5418121,-85.6049864,33
+"366",366,"WISP Ski Resort","http://www.skicentral.com/wisp.html","Maryland","McHenry, Maryland Special Packages at Woodloch Resort - Ski 'N' StayWoodloch Pines Resort is just a short 90 mile drive from the NYC area! Winner of Trip Advisor's 2012 'Traveler's Choice Award.' Kids 6 & under free during select midweeks! ",700,2415,100,32,132,"n/a","yes",12,39.5568677,-79.3634466,79
+"367",367,"Mountain Creek","http://www.skicentral.com/mountaincreek.html","New Jersey","Vernon, New Jersey ",1040,NA,65,46,NA,"n/a","yes",8,41.1907552,-74.5051199,74
+"368",368,"Campgaw Mountain","http://www.skicentral.com/campgawmountain.html","New Jersey","Mahwah, New Jersey ",270,NA,NA,13,18,"n/a","yes",5,41.0586447,-74.1949637,41
+"369",369,"Sugar Mountain Ski Resort","http://www.skicentral.com/sugarmountain.html","North Carolina","Banner Elk, North Carolina ",1200,4100,70,20,115,"n/a","yes",6,36.129954,-81.856974,74
+"370",370,"Appalachian Ski Mtn","http://www.skicentral.com/appalachian.html","North Carolina","Blowing Rock, North Carolina ",365,3635,NA,12,NA,"2640 feet / 805 metres","yes",6,36.1744099,-81.6625573,62
+"371",371,"Ski Beech","http://www.skicentral.com/skibeech.html","North Carolina","Banner Elk, North Carolina ",830,4675,NA,15,95,"n/a","yes",10,36.1946784,-81.8779951,67
+"372",372,"Hawksnest Snow Tubing Resort","http://www.skicentral.com/hawksnest.html","North Carolina","Seven Devils, North Carolina ",669,NA,NA,30,NA,"1000 feet / 305 meters","yes",2,36.1430589,-81.8262335,34
+"373",373,"Cataloochee Ski Area","http://www.skicentral.com/cataloocheeskiarea.html","North Carolina","Maggie Valley, North Carolina Mountain",740,4660,NA,17,NA,"n/a","yes",5,35.562438,-83.089964,65
+"374",374,"Sapphire Valley","http://www.skicentral.com/sapphirevalley.html","North Carolina","Cashiers, North Carolina ",200,NA,NA,2,NA,"1600 feet / 488 meters","yes",1,35.1250591,-83.0575867,43
+"375",375,"Wolf Laurel","http://www.skicentral.com/wolflaurel.html","North Carolina","character(0)",650,3950,50,22,54,"5280 feet / 1609 meters","yes",5,35.9692299,-82.5023464,56
+"376",376,"Wolf Ridge Ski Slopes","http://www.skicentral.com/wolfridge.html","North Carolina","Mars Hill, North Carolina Mountain",700,4000,NA,15,72,"n/a","yes",3,35.9550983,-82.5090463,56
+"377",377,"Blue Mountain Ski Area","http://www.skicentral.com/bluemountainskiarea.html","Pennsylvania","Palmerton, Pennsylvania ",1082,NA,NA,39,164,"1.2 miles / 1.9 km","yes",16,40.8226426,-75.5124842,62
+"378",378,"Camelback Ski Resort","http://www.skicentral.com/camelback.html","Pennsylvania","Tannersville, Pennsylvania Special Packages at Woodloch Resort - Ski 'N' StaySKI & STAY Packages at Woodloch Pines Resort provide great value- a family vacation experience coupled with the great ski conditions of the Poconos! Kids 6 & under free during select midweeks! ",800,1240,50,34,160,"5280 feet / 1609 metres","yes",15,41.0516546,-75.3555267,67
+"379",379,"Montage Mountain","http://www.skicentral.com/montage.html","Pennsylvania","Scranton, Pennsylvania ",1000,NA,60,30,140,"1.2 miles / 1.9 km","yes",7,41.3512429,-75.6629169,50
+"380",380,"Shawnee Mountain","http://www.skicentral.com/shawneemountain.html","Pennsylvania","East Stroudsburg, Pennsylvania ",700,650,50,23,125,"5069 feet / 1545 metres","yes",10,41.039612,-75.085262,65
+"381",381,"Seven Springs","http://www.skicentral.com/sevensprings.html","Pennsylvania","Seven Springs, Pennsylvania ",750,2240,135,33,285,"1.3 miles / 2.1 km","yes",11,40.0219309,-79.29024,85
+"382",382,"Elk Mountain","http://www.skicentral.com/elkmountain.html","Pennsylvania","Union Dale, Pennsylvania Special Packages at Woodloch Resort - Ski 'N' StaySKI & STAY Packages at Woodloch Pines Resort provide great value- a family vacation experience coupled with the great ski conditions of the Poconos! Kids 6 & under free during select midweeks! ",1000,1693,65,27,140,"3696 feet / 1127 metres","yes",7,41.7234046,-75.5534275,67
+"383",383,"Blue Knob Ski Resort","http://www.skicentral.com/blueknob.html","Pennsylvania","Claysburg, Pennsylvania Mountain",1072,2074,100,34,82,"n/a","yes",5,40.2968813,-78.543661,65
+"384",384,"Whitetail Ski Resort","http://www.skicentral.com/whitetail.html","Pennsylvania","Mercersburg, Pennsylvania ",935,865,40,23,109,"4858 feet / 1481 metres","yes",9,39.7417681,-77.9332807,77
+"385",385,"Jack Frost Big Boulder","http://www.skicentral.com/jackfrost.html","Pennsylvania","White Haven, Pennsylvania ",600,1400,50,36,NA,"2640 feet / 805 metres","yes",18,41.110006,-75.65123,60
+"386",386,"Ski Big Bear","http://www.skicentral.com/skibigbear.html","Pennsylvania","Lackawaxen, Pennsylvania Special Packages at Woodloch Resort - Ski 'N' StaySKI & STAY Packages at Woodloch Pines Resort provide great value- a family vacation experience coupled with the great ski conditions of the Poconos! Kids 6 & under free during select midweeks! ",650,NA,50,18,NA,"n/a","yes",6,41.5224238,-75.0235745,60
+"387",387,"Boyce Park","http://www.skicentral.com/boycepark.html","Pennsylvania","character(0)",180,1092,36,9,25,"1200 feet / 366 meters","yes",5,40.4638133,-79.7537469,NA
+"388",388,"Hidden Valley","http://www.skicentral.com/hiddenvalley.html","Pennsylvania","Hidden Valley, Pennsylvania ",470,2405,NA,28,70,"n/a","character(0)",9,40.1067745,-75.3779632,67
+"389",389,"Eagle Rock","http://www.skicentral.com/eaglerock.html","Pennsylvania","Hazleton, Pennsylvania ",550,NA,NA,13,NA,"5280 feet / 1609 metres","yes",3,41.452561,-79.575327,NA
+"390",390,"Bear Creek Ski & Recreation Area","http://www.skicentral.com/bearcreekskirecreationarea.html","Pennsylvania","Macungie, Pennsylvania ",510,NA,NA,21,86,"n/a","yes",6,40.4753327,-75.6252952,59
+"391",391,"Laurel Mountain Ski Resort","http://www.skicentral.com/laurelmountainskiresort.html","Pennsylvania","character(0)",NA,NA,NA,0,NA,"n/a","character(0)",0,40.1635126,-79.1654071,55
+"392",392,"Mount Pleasant","http://www.skicentral.com/mountpleasant.html","Pennsylvania","Edinboro, Pennsylvania Mountain",340,NA,NA,10,40,"2400 feet / 732 meters","character(0)",2,40.1489607,-79.5411497,33
+"393",393,"Liberty Mountain Resort","http://www.skicentral.com/skiliberty.html","Pennsylvania","Carroll Valley, Pennsylvania ",620,570,31,16,100,"5174 feet / 1577 metres","yes",9,39.76366,-77.375459,75
+"394",394,"Ski Roundtop","http://www.skicentral.com/skiroundtop.html","Pennsylvania","Lewisberry, Pennsylvania ",600,735,31,16,NA,"n/a","yes",9,40.1094506,-76.9275492,71
+"395",395,NA,"http://www.skicentral.com/skisawmill.html","Alaska",NA,NA,NA,NA,NA,NA,NA,NA,NA,64.2008413,-149.4936733,NA
+"396",396,"Spring Mountain","http://www.skicentral.com/springmountain.html","Pennsylvania","Spring Mount, Pennsylvania ",420,108,27,8,NA,"n/a","yes",5,40.2756574,-75.4565657,48
+"397",397,"Tussey Mountain","http://www.skicentral.com/tusseymountain.html","Pennsylvania","Boalsburg, Pennsylvania ",520,1230,NA,7,38,"3960 feet / 1207 metres","yes",4,40.7693415,-77.754014,39
+"398",398,"Alpine Mountain","http://www.skicentral.com/alpinemountain.html","Pennsylvania","Henryville, Pennsylvania ",500,600,50,21,120,"3281 feet / 1000 metres","yes",3,40.5009186,-79.9658155,55
+"399",399,"Ober Gatlinburg","http://www.skicentral.com/obergatlinburg.html","Tennessee","Gatlinburg, Tennessee Mountain",556,NA,NA,10,NA,"4400 feet / 1341 meters","character(0)",5,35.7088894,-83.5213826,65
+"400",400,"Wintergreen Resort","http://www.skicentral.com/wintergreen.html","Virginia","Wintergreen, Virginia Mountain",1003,2497,40,25,129,"n/a","character(0)",5,37.914883,-78.943848,79
+"401",401,"Bryce Resort","http://www.skicentral.com/bryceresort.html","Virginia","Basye, Virginia Mountain",500,1250,NA,8,NA,"3500 feet / 1067 meters","yes",5,38.8174647,-78.7656946,67
+"402",402,"Liberty Snowflex","http://www.skicentral.com/libertysnowflex.html","Virginia","Lynchburg, Virginia Mountain",NA,NA,NA,1,NA,"n/a","character(0)",2,37.352765,-79.166669,30
+"403",403,"Massanutten Resort","http://www.skicentral.com/massanuttenresort.html","Virginia","Massanutten, Virginia Mountain",1110,NA,NA,14,NA,"n/a","yes",8,38.406572,-78.716122,74
+"404",404,"Omini Homestead Resort","http://www.skicentral.com/thehomestead.html","Virginia","Hot Springs, Virginia Mountain",700,2500,NA,10,NA,"n/a","yes",5,37.9972701,-79.829662,NA
+"405",405,"Snowshoe Mountain","http://www.skicentral.com/snowshoe.html","West Virginia","Snowshoe, West Virginia ",1500,3348,180,60,244,"1.5 miles / 2.4 km","yes",14,38.4107965,-79.9936029,99
+"406",406,"Timberline Resort","http://www.skicentral.com/timberline.html","West Virginia","character(0)",1000,3268,200,37,100,"2 miles / 3.2 km","yes",4,39.042453,-79.39903,92
+"407",407,"Winterplace Ski Resort","http://www.skicentral.com/winterplace.html","West Virginia","Ghent, West Virginia Mountain",603,2997,100,27,90,"5280 feet / 1609 metres","yes",9,37.5957453,-81.1199689,70
+"408",408,"Canaan Valley","http://www.skicentral.com/canaanvalley.html","West Virginia","Davis, West Virginia Mountain",850,3430,150,39,78,"1.1 miles / 1.8 km","yes",3,39.1254028,-79.3825401,68
+"409",409,"Oglebay Resort","http://www.skicentral.com/oglebay.html","West Virginia","Wheeling, West Virginia Mountain",168,NA,NA,1,NA,"815 feet / 248 meters","yes",1,40.1047993,-80.6593457,28
+"410",410,"Lake Louise","http://www.skicentral.com/lakelouise.html","Alberta","Lake Louise, Alberta ",3250,5400,178,139,4200,"5 miles / 8 km","character(0)",9,51.4253705,-116.1772552,104
+"411",411,"Sunshine Village","http://www.skicentral.com/sunshine.html","Alberta","Banff, Alberta ",3510,5446,360,107,3358,"3 miles / 4.8 km","yes",12,51.1151858,-115.7632758,109
+"412",412,"Mount Norquay","http://www.skicentral.com/norquay.html","Alberta","Banff, Alberta ",1650,5500,120,28,190,"3281 feet / 1000 metres","yes",5,51.2014951,-115.5999046,74
+"413",413,"Marmot Basin","http://www.skicentral.com/marmotbasin.html","Alberta","Lake Louise, Alberta Mountain",3000,5570,160,86,1675,"3.7 miles / 6 km","character(0)",8,52.8011121,-118.0831592,95
+"414",414,"Nakiska","http://www.skicentral.com/nakiska.html","Alberta","Kananaskis, Alberta Mountain",2555,4851,98,64,1021,"2 miles / 3.2 km","yes",6,50.9427038,-115.1510985,85
+"415",415,"Castle Mountain Resort","http://www.skicentral.com/castlemountain.html","Alberta","Pincher Creek, Alberta ",2833,4630,358,78,3500,"3.1 miles / 5 km","character(0)",6,49.3191376,-114.412619,84
+"416",416,"Canyon Ski Area","http://www.skicentral.com/canyonskiarea.html","Alberta","Red Deer, Alberta Mountain",538,2412,45,18,71,"3937 feet / 1200 meters","yes",5,52.3040051,-113.6826235,43
+"417",417,"Long Lake Ski Area","http://www.skicentral.com/longlakeskiarea.html","Alberta","Thorhild, Alberta Mountain",328,NA,NA,12,NA,"n/a","yes",3,54.465568,-112.779035,25
+"418",418,"Misery Mountain Ski Area","http://www.skicentral.com/miserymountainskiarea.html","Alberta","Peace River, Alberta ",610,NA,NA,25,NA,"n/a","character(0)",3,56.226832,-117.3026479,34
+"419",419,"Hidden Valley","http://www.skicentral.com/hiddenvalleyalberta.html","Alberta","Medicine Hat, Alberta Mountain",656,3938,84,6,NA,"1.2 miles / 2 km","yes",4,51.1513095,-114.1182466,40
+"420",420,"Nitehawk Ski Area","http://www.skicentral.com/nitehawkskiarea.html","Alberta","Grande Prairie, Alberta Mountain",580,1739,NA,9,250,"n/a","yes",3,55.055322,-118.8617405,37
+"421",421,"Canada Olympic Park","http://www.skicentral.com/canadaolympicpark.html","Alberta","Calgary, Alberta Mountain",390,3710,116,3,NA,"n/a","yes",7,51.0823819,-114.2152734,46
+"422",422,"Pass Powderkeg Ski Hill","http://www.skicentral.com/passpowderkegskihill.html","Alberta","Blairmore, Alberta ",1200,NA,NA,15,NA,"n/a","yes",3,49.6024244,-114.4493664,50
+"423",423,"Rabbit Hill Snow Resort","http://www.skicentral.com/rabbithillsnowresort.html","Alberta","Leduc, Alberta Mountain",299,NA,48,12,40,"n/a","yes",8,53.381405,-113.6722725,42
+"424",424,"Silver Summit Ski Area","http://www.skicentral.com/silversummitskiarea.html","Alberta","Edson, Alberta Mountain",976,3774,120,13,NA,"7874 feet / 2400 meters","character(0)",3,53.8929877,-116.5672646,40
+"425",425,"Snow Valley","http://www.skicentral.com/snowvalleyalberta.html","Alberta","Edmonton, Alberta Mountain",130,2051,48,0,20,"1801 feet / 549 meters","yes",4,53.4836592,-113.5565128,39
+"426",426,"Sunridge Ski Area","http://www.skicentral.com/sunridgeskiarea.html","Alberta","Edmonton, Alberta Mountain",140,NA,45,13,72,"600 feet / 183 meters","yes",5,53.564481,-113.3720811,40
+"427",427,"Kinosoo Ridge Snow Resort","http://www.skicentral.com/kinosooridgesnowresort.html","Alberta","Cold Lake, Alberta Mountain",350,1775,NA,11,45,"1.2 miles / 2 km","yes",4,54.440634,-110.017379,33
+"428",428,"Tawatinaw Valley","http://www.skicentral.com/tawatinawvalley.html","Alberta","Tawatinaw, Alberta Mountain",250,NA,NA,24,NA,"n/a","character(0)",4,54.2971876,-113.4780121,30
+"429",429,"Vista Ridge","http://www.skicentral.com/vistaridge.html","Alberta","Fort McMurray, Alberta Mountain",410,820,NA,8,60,"2500 feet / 762 meters","yes",5,56.661712,-111.133895,41
+"430",430,"Whispering Pines Ski Area","http://www.skicentral.com/whisperingpinesskiarea.html","Alberta","Worsley, Alberta Mountain",460,3040,NA,18,NA,"3500 feet / 1067 meters","character(0)",3,56.602427,-119.3917278,30
+"431",431,"Whistler Blackcomb","http://www.skicentral.com/whistler.html","British Columbia","Whistler, Canada 25-40% Off Whistler Lodging & Early Booking Ski Package SpecialsWhistler lodging and complete ski packages 25-40% off early booking special! Rocky ",5280,2214,458,200,8171,"7 miles / 11.3 km","yes",37,50.1200231,-122.9430738,126
+"432",432,"Sun Peaks Resort","http://www.skicentral.com/sunpeaks.html","British Columbia","Kamloops, British Columbia Sun Peaks Ski Resort Accommodation by OwnersSave time & money! Search 120+ Sun Peaks accommodations offered direct by Owner. View detailed descriptions & photos. Book instantly online by credit card and skip agent commissions! ",2894,3930,220,122,4270,"5 miles / 8 km","yes",11,50.8844485,-119.8859113,95
+"433",433,"Big White Ski Resort","http://www.skicentral.com/bigwhite.html","British Columbia","Kelowna, British Columbia Big White Ski Resort Accommodation by OwnersSave time & money! Search 130+ Big White accommodations offered direct by Owner. View detailed descriptions & photos. Book instantly online by credit card and skip agent commissions! ",2550,4950,295,118,2765,"4.3 miles / 7 km","no",15,49.7216277,-118.9265789,95
+"434",434,"Fernie Alpine Resort","http://www.skicentral.com/fernie.html","British Columbia","Fernie, British Columbia Fernie BC Accommodations by OwnersSearch ski rentals in top Fernie Canada locations. View detailed descriptions and photos. Book online by credit card directly with Owners. Skip commission fees & save big! ",3550,3500,348,140,2504,"3.1 miles / 5 km","yes",10,49.4638537,-115.0866092,105
+"435",435,"Kicking Horse Mountain Resort","http://www.skicentral.com/kickinghorse.html","British Columbia","Golden, British Columbia Kicking Horse Ski Accommodation by OwnersSearch ski rentals in top Kicking Horse locations. View detailed descriptions and photos. Book online by credit card directly with Owners. Skip commission fees & save big! ",4133,3900,256,120,2800,"6.2 miles / 10 km","no",5,51.2975688,-117.0482516,105
+"436",436,"Panorama Mountain Village","http://www.skicentral.com/panorama.html","British Columbia","Invermere, British Columbia Panorama ",4000,3875,188,120,2847,"3.7 miles / 6 km","yes",9,50.460374,-116.238147,99
+"437",437,"Silver Star Mountain","http://www.skicentral.com/silverstar.html","British Columbia","Vernon, British Columbia Silver Star Resort Accomodation by OwnersSearch ski rentals in top Silver Star locations. View detailed descriptions and photos. Book online by credit card directly with Owners. Skip commission fees & save big! ",2500,3780,276,115,3065,"5 miles / 8 km","no",12,50.3597927,-119.0588591,96
+"438",438,"Red Mountain","http://www.skicentral.com/redmountain.html","British Columbia","Rossland, British Columbia Red ",2919,3887,295,88,1685,"4.3 miles / 7 km","no",6,49.1024147,-117.8194705,92
+"439",439,"Kimberley Alpine Resort","http://www.skicentral.com/kimberley.html","British Columbia","Kimberley, British Columbia Mountain",2465,4035,150,68,1800,"3.97 miles / 6.4 km","yes",5,49.6879955,-116.0043731,80
+"440",440,"Mount Washington Alpine Resort","http://www.skicentral.com/mt.washington.html","British Columbia","Courtenay, British Columbia Mountain",1657,3558,420,60,1600,"2.4 miles / 3.9 km","no",9,49.7530555,-125.2963888,89
+"441",441,"Grouse Mountain","http://www.skicentral.com/grousemountain.html","British Columbia","North Vancouver, British Columbia ",1198,899,NA,26,212,"n/a","yes",6,49.3801396,-123.081458,63
+"442",442,"Mount Seymour","http://www.skicentral.com/mountseymour.html","British Columbia","North Vancouver, British Columbia ",1082,3067,394,39,200,"5280 feet / 1609 metres","character(0)",5,49.3933333,-122.9444444,56
+"443",443,"Revelstoke Mountain","http://www.skicentral.com/revelstokemountainresort.html","British Columbia","Revelstoke, British Columbia ",5620,1680,444,56,3121,"9.3 miles / 15 km","character(0)",5,50.9583028,-118.1637752,99
+"444",444,"Hudson Bay Mountain","http://www.skicentral.com/hudsonbaymountain.html","British Columbia","Smithers, British Columbia ",1750,3747,60,36,315,"5 miles / 8 km","character(0)",3,54.8116666,-127.3397221,65
+"445",445,"Hemlock Valley","http://www.skicentral.com/hemlockvalley.html","British Columbia","Hemlock Valley, British Columbia Mountain",1300,3300,NA,34,300,"1.4 miles / 2.3 km","character(0)",4,49.376709,-121.934807,60
+"446",446,"Manning Park","http://www.skicentral.com/manningpark.html","British Columbia","Manning Park, British Columbia Mountain",1433,4439,395,30,140,"n/a","character(0)",4,49.064647,-120.781581,57
+"447",447,"Fairmont Hot Springs Resort","http://www.skicentral.com/fairmonthotspringsresort.html","British Columbia","Fairmont Hot Springs, British Columbia ",1000,4200,100,14,88,"7920 feet / 2414 meters","yes",3,50.3281883,-115.842681,47
+"448",448,"Apex","http://www.skicentral.com/apex.html","British Columbia","Penticton, British Columbia Mountain",2000,5187,236,67,1112,"3.1 miles / 5 km","yes",4,49.390666,-119.903937,80
+"449",449,"Powder King","http://www.skicentral.com/powderking.html","British Columbia","Mackenzie, British Columbia Mountain",2100,3000,492,37,925,"n/a","character(0)",3,55.3622192,-122.610386,67
+"450",450,"Purden Lake and Ski Resort","http://www.skicentral.com/purdenlakeandskiresort.html","British Columbia","Prince George, British Columbia Mountain",1100,NA,160,25,NA,"n/a","character(0)",3,53.9002901,-121.8842663,65
+"451",451,"Murray Ridge Ski Hill","http://www.skicentral.com/murrayridgeskihill.html","British Columbia","Fort Saint James, British Columbia Mountain",1700,NA,118,22,NA,"n/a","yes",1,54.5176907,-124.2105452,42
+"452",452,"Mt. Baldy Ski Area","http://www.skicentral.com/mtbaldyskiarea.html","British Columbia","Oliver, British Columbia Mountain",1293,5665,256,35,500,"n/a","character(0)",4,49.150292,-119.2286619,55
+"453",453,"Shames Mountain","http://www.skicentral.com/shamesmountain.html","British Columbia","Terrace, British Columbia ",1600,2300,480,28,252,"2.5 miles / 4 km","character(0)",3,54.484131,-128.9528149,52
+"454",454,"Jumbo Glacier Resort","http://www.skicentral.com/jumboglacierresort.html","British Columbia","character(0)",5627,NA,NA,0,1510,"n/a","no",0,50.3612941,-116.6247172,NA
+"455",455,"Ski Mt. Cain","http://www.skicentral.com/skimtcain.html","British Columbia","Woss, British Columbia Mountain",1499,4301,456,21,NA,"n/a","character(0)",3,50.2188795,-126.3538592,50
+"456",456,"Ski Mt. Timothy","http://www.skicentral.com/skimttimothy.html","British Columbia","100 Mile House, British Columbia Mountain",989,NA,NA,35,NA,"n/a","character(0)",5,51.9149066,-121.2520607,50
+"457",457,"Harper Mountain","http://www.skicentral.com/harpermountain.html","British Columbia","Kamloops, British Columbia ",1400,3600,156,15,400,"1214 feet / 370 metres","character(0)",3,50.7236425,-120.1383357,50
+"458",458,"Troll Ski Resort","http://www.skicentral.com/trollskiresort.html","British Columbia","Quesnel, British Columbia Mountain",1729,NA,NA,35,NA,"3.7 miles / 6 km","no",4,53.0664545,-121.9420563,50
+"459",459,"Cypress Mountain","http://www.skicentral.com/cypressmountain.html","British Columbia","West Vancouver, British Columbia ",2010,NA,NA,53,600,"n/a","yes",6,49.396018,-123.204545,75
+"460",460,"Whitewater Ski and Winter Resort","http://www.skicentral.com/whitewater.html","British Columbia","Nelson, British Columbia Mountain",2043,4526,472,69,1184,"n/a","no",4,49.4443,-117.14653,84
+"461",461,"Asessippi","http://www.skicentral.com/asessippi.html","Manitoba","character(0)",397,1417,NA,26,200,"n/a","yes",4,50.951127,-101.339521,50
+"462",462,"Falcon Trails Resort","http://www.skicentral.com/falcontrailsresort.html","Manitoba","Falcon Lake, Manitoba Mountain",150,1060,50,12,25,"n/a","character(0)",4,49.7037965,-95.1903692,27
+"463",463,"Holiday Mountain Resort","http://www.skicentral.com/holidaymountainresort.html","Manitoba","LaRiviere, Manitoba ",315,1200,NA,11,NA,"n/a","character(0)",3,49.237733,-98.693747,46
+"464",464,"Mystery Mountain","http://www.skicentral.com/mysterymountain.html","Manitoba","character(0)",200,700,75,18,30,"n/a","yes",4,55.871044,-97.7771431,35
+"465",465,"Springhill Winter Sports Park","http://www.skicentral.com/springhillwintersportspark.html","Manitoba","Winnipeg, Manitoba ",130,NA,NA,4,NA,"n/a","yes",3,49.9637416,-96.9812476,32
+"466",466,"Stony Mountain","http://www.skicentral.com/stonymountain.html","Manitoba","Stony Mountain, Manitoba ",100,NA,NA,6,NA,"n/a","yes",2,50.0875625,-97.2196509,24
+"467",467,"Crabbe Mountain","http://www.skicentral.com/crabbemountain.html","New Brunswick","Fredericton, New Brunswick ",853,472,108,20,NA,"n/a","yes",3,46.117097,-67.100672,38
+"468",468,"Mont Farlagne","http://www.skicentral.com/montfarlagne.html","New Brunswick","Edmundston, New Brunswick Mountain",600,460,150,22,NA,"5400 feet / 1646 meters","yes",5,47.4142455,-68.381337,39
+"469",469,"Poley Mountain","http://www.skicentral.com/poleymountain.html","New Brunswick","Sussex, New Brunswick ",660,250,NA,30,100,"5280 feet / 1609 metres","yes",5,45.6796295,-65.3822232,38
+"470",470,"Marble Mountain","http://www.skicentral.com/marblemountain.html","Newfoundland","Corner Brook, Newfoundland ",1700,33,192,39,230,"3 miles / 4.8 km","character(0)",4,48.9481564,-57.8310109,45
+"471",471,"White Hills Resort","http://www.skicentral.com/whitehillsresort.html","Newfoundland","Clarenville, Newfoundland Mountain",750,NA,144,20,55,"n/a","yes",2,48.1632928,-54.0464028,50
+"472",472,"Ski Martock","http://www.skicentral.com/skimartock.html","Nova Scotia","character(0)",600,NA,NA,7,NA,"n/a","yes",5,44.9353337,-64.1719423,37
+"473",473,"Ski Ben Eoin","http://www.skicentral.com/skibeneoin.html","Nova Scotia","Ben Eoin, Nova Scotia Mountain",490,NA,NA,11,NA,"4200 feet / 1280 meters","yes",3,45.973343,-60.433612,38
+"474",474,"Ski Wentworth","http://www.skicentral.com/skiwentworth.html","Nova Scotia","Wentworth Centre, Nova Scotia Mountain",815,NA,NA,20,NA,"n/a","yes",3,45.6094525,-63.5615598,45
+"475",475,"Blue Mountain","http://www.skicentral.com/bluemountain.html","Ontario","Collingwood, Ontario ",720,741,110,43,365,"5280 feet / 1609 metres","yes",13,44.503346,-80.310917,70
+"476",476,"Horseshoe Resort","http://www.skicentral.com/horseshoevalley.html","Ontario","Barrie, Ontario ",308,1024,120,32,61,"2200 feet / 671 meters","yes",6,44.5506061,-79.6729508,69
+"477",477,"Mount St. Louis Moonstone","http://www.skicentral.com/mountst.louismoonstone.html","Ontario","Coldwater, Ontario ",550,751,120,36,170,"1.2 miles / 2 km","yes",12,44.6231718,-79.6669872,62
+"478",478,"Calabogie Peaks","http://www.skicentral.com/calabogie.html","Ontario","Calabogie, Ontario ",780,505,80,24,80,"6961 feet / 2122 meters","yes",3,45.27475,-76.78143,46
+"479",479,"Mount Pakenham","http://www.skicentral.com/mountpakenham.html","Ontario","Pakenham, Ontario ",280,450,60,10,55,"1000 feet / 305 meters","yes",7,45.3246642,-76.3298963,35
+"480",480,"Ski Snow Valley","http://www.skicentral.com/skisnowvalley.html","Ontario","Barrie, Ontario ",279,774,94,21,85,"3274 feet / 998 metres","character(0)",9,44.411344,-79.792242,54
+"481",481,"Hockley Valley","http://www.skicentral.com/hockleyvalley.html","Ontario","Orangeville, Ontario Mountain",375,NA,100,15,30,"n/a","yes",5,43.9775621,-80.0469177,55
+"482",482,"Hidden Valley Highlands","http://www.skicentral.com/hiddenvalleyhighlands.html","Ontario","Huntsville, Ontario ",333,949,125,12,35,"n/a","yes",4,45.356103,-79.129683,53
+"483",483,"Adanac Ski Hill","http://www.skicentral.com/adanacskihill.html","Ontario","Sudbury, Ontario Mountain",240,NA,NA,8,NA,"n/a","yes",2,46.5105613,-80.9604325,33
+"484",484,"Batawa Ski Hill","http://www.skicentral.com/batawaskihill.html","Ontario","Batawa, Ontario ",180,NA,NA,9,5,"n/a","yes",3,44.1671765,-77.5967494,39
+"485",485,"Dagmar","http://www.skicentral.com/dagmar.html","Ontario","Uxbridge, Ontario ",235,NA,NA,17,30,"2600 feet / 792 meters","yes",6,44.01433,-79.049463,52
+"486",486,"Devil's Elbow","http://www.skicentral.com/devilselbow.html","Ontario","Bethany, Ontario ",350,NA,NA,12,85,"n/a","yes",6,44.2208659,-78.5750082,53
+"487",487,"Devil's Glen Country Club","http://www.skicentral.com/devilsglencountryclub.html","Ontario","Glen Huron, Ontario ",510,NA,NA,24,NA,"n/a","character(0)",5,44.35445,-80.2010185,NA
+"488",488,"Glen Eden","http://www.skicentral.com/gleneden.html","Ontario","Milton, Ontario ",240,NA,NA,8,NA,"n/a","yes",4,43.508534,-79.942617,38
+"489",489,"Craigleith Ski Club","http://www.skicentral.com/craigleithskiclub.html","Ontario","Collingwood, Ontario ",120,NA,NA,32,NA,"n/a","yes",6,44.5158484,-80.3324819,80
+"490",490,"Chicopee","http://www.skicentral.com/chicopee.html","Ontario","Kitchener, Ontario ",200,NA,NA,15,NA,"n/a","character(0)",6,43.4359292,-80.41829,38
+"491",491,"Caledon","http://www.skicentral.com/caledon.html","Ontario","Caledon, Ontario ",275,NA,NA,23,NA,"1400 feet / 427 meters","yes",8,43.8363372,-79.8744836,NA
+"492",492,"Boler Mountain (London Ski Club)","http://www.skicentral.com/bolermountainlondonskiclub.html","Ontario","London, Ontario ",110,NA,NA,15,NA,"n/a","character(0)",4,42.9447465,-81.3390639,38
+"493",493,"Beaver Valley Ski Club","http://www.skicentral.com/beavervalleyskiclub.html","Ontario","Markdale, Ontario ",505,840,NA,25,110,"3960 feet / 1207 meters","yes",6,44.357747,-80.544822,78
+"494",494,"Laurentian Ski Hill","http://www.skicentral.com/laurentianskihill.html","Ontario","North Bay, Ontario ",300,NA,NA,8,NA,"n/a","character(0)",3,46.3377578,-79.4322181,38
+"495",495,"Lively Ski Hill","http://www.skicentral.com/livelyskihill.html","Ontario","Lively, Ontario ",100,NA,NA,4,NA,"n/a","yes",1,46.4319119,-81.142469,13
+"496",496,"Loch Lomond","http://www.skicentral.com/lochlomond.html","Ontario","Thunder Bay, Ontario ",750,700,NA,14,NA,"1.5 miles / 2.4 km","yes",3,48.2820238,-89.2987402,51
+"497",497,"Mansfield Ski Club","http://www.skicentral.com/mansfieldskiclub.html","Ontario","Mansfield, Ontario ",440,NA,NA,17,NA,"n/a","yes",7,44.195702,-80.052056,63
+"498",498,"Mount Chinguacousy","http://www.skicentral.com/mountchinguacousy.html","Ontario","Brampton, Ontario ",69,NA,NA,2,2,"617 feet / 188 meters","yes",1,43.7271207,-79.7256128,22
+"499",499,"Mount Dufour","http://www.skicentral.com/mountdufour.html","Ontario","Elliot Lake, Ontario ",320,NA,NA,7,NA,"n/a","yes",2,46.3856917,-82.6362848,48
+"500",500,"Larder Lake Ski Club","http://www.skicentral.com/larderlakeskiclub.html","Ontario","Larder Lake, Ontario ",NA,NA,NA,6,NA,"n/a","character(0)",1,48.092433,-79.723214,NA
+"501",501,"Kamiskotia Snow Resort","http://www.skicentral.com/kamiskotiasnowresort.html","Ontario","Timmins, Ontario ",400,NA,134,12,NA,"n/a","yes",4,48.5342493,-81.5411522,45
+"502",502,"Mt. Antoine","http://www.skicentral.com/mtantoine.html","Ontario","Mattawa, Ontario ",630,525,138,15,80,"1.9 miles / 3 km","yes",2,46.3683351,-78.7344751,58
+"503",503,"Osler Bluff Ski Club","http://www.skicentral.com/oslerbluff.html","Ontario","Collingwood, Ontario ",745,940,NA,20,130,"n/a","yes",5,44.4619499,-80.2808412,73
+"504",504,"Pine Ridge Ski Club","http://www.skicentral.com/pineridgeskiclub.html","Ontario","Barrie, Ontario ",320,1100,NA,7,50,"n/a","yes",3,34.0633443,-117.6508876,35
+"505",505,"Remi Ski Club","http://www.skicentral.com/remiskiclub.html","Ontario","Moonbeam, Ontario ",138,NA,NA,0,NA,"1574 feet / 480 meters","character(0)",1,49.3443915,-82.1550651,17
+"506",506,"Searchmont","http://www.skicentral.com/searchmont.html","Ontario","Searchmont, Ontario ",750,NA,132,18,100,"n/a","character(0)",4,46.778645,-84.051335,46
+"507",507,"Sir Sam's Ski Area","http://www.skicentral.com/sirsamsskiarea.html","Ontario","Haliburton, Ontario ",330,1120,99,14,40,"n/a","yes",6,45.1301227,-78.4782273,53
+"508",508,"Ski Lakeridge","http://www.skicentral.com/skilakeridge.html","Ontario","Uxbridge, Ontario ",300,NA,NA,23,70,"n/a","character(0)",5,44.0278045,-79.0630049,55
+"509",509,"Brimacombre","http://www.skicentral.com/brimacombre.html","Ontario","Orono, Ontario ",300,NA,NA,21,NA,"n/a","yes",9,44.022346,-78.574953,52
+"510",510,"Skyloft Ski & Country Club","http://www.skicentral.com/skyloftskicountryclub.html","Ontario","Uxbridge, Ontario ",400,NA,NA,22,NA,"n/a","yes",4,44.030133,-79.0760715,75
+"511",511,"Toronto City Skiing","http://www.skicentral.com/torontocityskiing.html","Ontario","Collingwood, Ontario ",NA,NA,NA,0,NA,"n/a","yes",2,43.6503239,-79.4807942,36
+"512",512,"Trestle Ridge Ski Slopes","http://www.skicentral.com/trestleridgeskislopes.html","Ontario","Terrace Bay, Ontario ",NA,NA,NA,8,NA,"n/a","character(0)",1,48.7864429,-87.1099526,NA
+"513",513,"Uplands Ski Centre","http://www.skicentral.com/uplandsskicentre.html","Ontario","Thornhill, Ontario ",100,NA,NA,4,NA,"n/a","character(0)",1,43.8247508,-79.4388184,25
+"514",514,"Mont Tremblant","http://www.skicentral.com/tremblant.html","Quebec","Mont-Tremblant, Quebec ",2116,755,177,96,665,"3.7 miles / 6 km","yes",14,46.1184616,-74.5961852,89
+"515",515,"Mont Sainte-Anne","http://www.skicentral.com/sainte-anne.html","Quebec","Beaupre, Quebec ",2050,575,189,71,547,"3.6 miles / 5.8 km","yes",9,47.075353,-70.904903,79
+"516",516,"Le Massif","http://www.skicentral.com/lemassif.html","Quebec","La Petite-Riviere-Saint-Francois, Quebec ",2526,118,212,52,406,"3.1 miles / 5 km","yes",6,47.2848129,-70.5696845,78
+"517",517,"Stoneham","http://www.skicentral.com/stoneham.html","Quebec","Stoneham, Quebec ",1132,814,165,42,333,"2 miles / 3.2 km","yes",7,47.0303739,-71.3930229,64
+"518",518,"Mont Saint-Sauveur","http://www.skicentral.com/saint-sauveur.html","Quebec","Saint-Sauveur-des-monts, Quebec ",698,666,100,40,142,"5280 feet / 1609 metres","yes",8,45.88492,-74.151827,60
+"519",519,"Mont Orford","http://www.skicentral.com/orford.html","Quebec","Mount Orford, Quebec ",1933,867,78,62,245,"2 miles / 3.2 km","yes",8,45.3176101,-72.221249,63
+"520",520,"Massif Du Sud","http://www.skicentral.com/massifdusud.html","Quebec","Saint-Philemon, Quebec ",1312,1689,236,32,127,"1.9 miles / 3 km","yes",2,46.6213833,-70.4895686,64
+"521",521,"Mont Sutton","http://www.skicentral.com/sutton.html","Quebec","Sutton, Quebec ",1500,1312,185,60,230,"1.9 miles / 3 km","yes",10,45.104728,-72.56184,64
+"522",522,"Ski Morin Heights","http://www.skicentral.com/morinheights.html","Quebec","character(0)",656,867,79,35,80,"n/a","yes",5,45.899502,-74.268568,49
+"523",523,"Ski Bromont","http://www.skicentral.com/skibromont.html","Quebec","Bromont, Quebec ",1263,590,197,141,450,"7200 feet / 2195 meters","yes",9,45.302561,-72.6383029,62
+"524",524,"Mont Blanc","http://www.skicentral.com/montblanc.html","Quebec","Mont-Tremblant, Quebec ",682,1220,118,43,140,"n/a","yes",7,46.109076,-74.4832549,55
+"525",525,"Mont Avila","http://www.skicentral.com/montavila.html","Quebec","character(0)",698,667,NA,13,142,"n/a","yes",3,45.88492,-74.151827,49
+"526",526,"Owl's Head","http://www.skicentral.com/owlshead.html","Quebec","Mansonville, Quebec, Canada ",1608,872,175,52,130,"n/a","yes",7,45.076604,-72.295189,35
+"527",527,"Ski Mont Gabriel","http://www.skicentral.com/skimontgabriel.html","Quebec","Sainte-Adele, Quebec ",656,764,NA,21,50,"n/a","yes",5,45.9239275,-74.1543312,39
+"528",528,"Mont Ste-Marie","http://www.skicentral.com/montste-marie.html","Quebec","Lac Sainte-Marie, Quebec ",1251,659,118,20,100,"n/a","yes",3,45.941,-75.874499,49
+"529",529,"Mont Lac Vert","http://www.skicentral.com/montlacvert.html","Quebec","Hebertville, Quebec ",787,NA,NA,20,NA,"n/a","yes",2,48.3560168,-71.6064292,38
+"530",530,"Mont Gleason","http://www.skicentral.com/montgleason.html","Quebec","Tingwick, Quebec ",666,465,69,20,NA,"1.2 miles / 2 km","yes",5,45.9304426,-71.9617601,34
+"531",531,"Mont Garceau","http://www.skicentral.com/montgarceau.html","Quebec","Saint Donat, Quebec ",1000,1350,120,32,103,"1.2 miles / 2 km","yes",3,46.337413,-74.220079,44
+"532",532,"Le Valinouet","http://www.skicentral.com/levalinouet.html","Quebec","Falardeau, Quebec ",1148,1509,236,30,138,"1.2 miles / 2 km","no",6,48.65625,-70.8935923,52
+"533",533,"Le Relais","http://www.skicentral.com/lerelais.html","Quebec","Quebec, Quebec ",735,672,134,32,173,"1.2 miles / 2 km","yes",7,46.9413789,-71.2990775,43
+"534",534,"Le Chantecler","http://www.skicentral.com/lechantecler.html","Quebec","Sainte-Adele, Quebec ",600,900,150,22,60,"1.2 miles / 2 km","yes",3,45.9499365,-74.1466722,45
+"535",535,"Edelweiss Valley","http://www.skicentral.com/edelweissvalley.html","Quebec","Wakefield, Quebec ",656,492,NA,20,160,"1.2 miles / 2 km","yes",4,45.6467589,-75.8506025,45
+"536",536,"Camp Fortune","http://www.skicentral.com/campfortune.html","Quebec","Old Chelsea, Quebec Mountain",650,NA,60,23,94,"n/a","yes",8,45.510998,-75.851646,44
+"537",537,"Mont Rigaud","http://www.skicentral.com/montrigaud.html","Quebec","Rigaud, Quebec ",394,180,59,13,159,"n/a","yes",3,45.4680559,-74.3391609,42
+"538",538,"Mont Saint-Bruno","http://www.skicentral.com/montsaintbruno.html","Quebec","Saint-Bruno-de-Montarville, Quebec ",440,NA,NA,15,50,"n/a","yes",8,45.546267,-73.342501,33
+"539",539,"Parc Du Mont-Comi","http://www.skicentral.com/parcdumontcomi.html","Quebec","Saint Donat, Quebec ",1003,NA,NA,30,NA,"n/a","character(0)",4,48.46723,-68.194456,40
+"540",540,"Mont Orignal","http://www.skicentral.com/montorignal.html","Quebec","character(0)",984,NA,NA,23,NA,"n/a","yes",2,46.4115485,-70.5969178,42
+"541",541,"Mont Olympia","http://www.skicentral.com/montolympia.html","Quebec","character(0)",656,967,NA,37,80,"n/a","yes",6,45.9159122,-74.1236126,49
+"542",542,"Mont la Reserve","http://www.skicentral.com/montlareserve.html","Quebec","Saint Donat, Quebec ",1000,1297,NA,40,100,"5249 feet / 1600 meters","character(0)",3,46.286398,-74.181474,36
+"543",543,"Ski Montcalm","http://www.skicentral.com/skimontcalm.html","Quebec","Rawdon, Quebec ",450,NA,NA,24,100,"5280 feet / 1609 metres","yes",7,46.041651,-73.830908,38
+"544",544,"Mont Habitant","http://www.skicentral.com/monthabitant.html","Quebec","Saint-Sauveur, Quebec ",600,551,NA,10,55,"3281 feet / 1000 metres","yes",3,45.8810976,-74.1780802,42
+"545",545,"Ski Vorlage","http://www.skicentral.com/skivorlage.html","Quebec","Wakefield, Quebec ",450,489,120,18,80,"n/a","yes",5,45.6447241,-75.9345849,37
+"546",546,"Station De Ski Gallix","http://www.skicentral.com/stationdeskigallix.html","Quebec","Sept-Iles, Quebec ",606,NA,NA,20,NA,"n/a","yes",3,50.175886,-66.7076141,40
+"547",547,"Mont Chilly","http://www.skicentral.com/montchilly.html","Quebec","Mansfield-et-Pontefract, Quebec ",430,NA,NA,6,NA,"n/a","character(0)",1,45.9145505,-76.7456388,20
+"548",548,"Mont Cascades","http://www.skicentral.com/montcascades.html","Quebec","Cantley Quebec ",541,NA,NA,20,60,"n/a","yes",5,45.5928747,-75.8488992,41
+"549",549,"Mont Belu","http://www.skicentral.com/montbelu.html","Quebec","La Baie, Quebec ",600,NA,NA,10,NA,"n/a","yes",2,48.324475,-70.8386917,25
+"550",550,"Val-D'Irene","http://www.skicentral.com/val-direne.html","Quebec","character(0)",899,NA,24,27,65,"413 feet / 126 meters","character(0)",3,48.465849,-67.5753489,36
+"551",551,"Vallee Bleue","http://www.skicentral.com/valleebleue.html","Quebec","Val-David, Quebec ",365,1054,NA,19,40,"n/a","yes",3,45.203086,-72.68568,38
+"552",552,"Vallee du Parc","http://www.skicentral.com/valleeduparc.html","Quebec","Shawinigan, Quebec ",551,NA,NA,20,NA,"n/a","yes",5,46.615268,-72.796423,35
+"553",553,"Val Neigette","http://www.skicentral.com/valneigette.html","Quebec","Rimouski, Quebec ",623,NA,NA,25,85,"n/a","yes",2,48.3658398,-68.4815999,28
+"554",554,"Val St-Come","http://www.skicentral.com/valstcome.html","Quebec","Saint-Come, Quebec ",1000,1000,118,36,70,"1.9 miles / 3 kmyes Lifts Number of Lifts5Gondolas/Trams0High Speed Six Chairs0High Speed Quad Chairs0Quad Chairs2Triple Chairs1Double Chairs0Surface Lifts2Lift Capacity8600 (skiers per hour)Season Dates Season Resort Features SnowboardingNight SkiingCross Country SkiingSnowshoe Trailsn/aTerrain Park 2 terrain parks. ","yes",5,46.2726002,-73.8694224,45
+"555",555,"Duck Mountain Ski Area","http://www.skicentral.com/duckmountainskiarea.html","Saskatchewan","Kamsack, Saskatchewan ",325,NA,36,21,NA,"5000 feet / 1524 meters","character(0)",3,51.561415,-101.607749,30
+"556",556,"Mission Ridge Winter Park","http://www.skicentral.com/missionridgewinterpark.html","Saskatchewan","Fort Qu'Appelle, Saskatchewan Mountain",320,NA,NA,14,25,"2600 feet / 792 meters","yes",3,50.755504,-103.781693,32
+"557",557,"Ski Timber Ridge","http://www.skicentral.com/skitimberridge.html","Saskatchewan","Big River, Saskatchewan Mountain",300,NA,NA,6,NA,"2600 feet / 792 meters","character(0)",1,53.7882803,-106.9821167,NA
+"558",558,"Table Mountain Ski Area","http://www.skicentral.com/tablemountainskiarea.html","Saskatchewan","character(0)",360,NA,NA,11,40,"n/a","yes",4,52.8158333,-108.6045127,33
+"559",559,"Wapiti Valley","http://www.skicentral.com/wapitivalley.html","Saskatchewan","Gronlid, Saskatchewan Mountain",270,NA,20,12,25,"n/a","yes",2,53.2332362,-104.4598692,32
